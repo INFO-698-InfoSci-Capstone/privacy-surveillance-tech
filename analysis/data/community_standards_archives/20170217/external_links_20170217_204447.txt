@@ -1,0 +1,41 @@
+ -> /communitystandards/?fb_home
+×××× ××§×××× -> /communitystandards/
+×§×¨×/× ×××ª× ×××¦×××ª ×©×× × -> /communitystandards/?letter
+××¨××© ×××£ -> #cs-header
+××¨××© ×××£ -> #cs-header
+××¨××© ×××£ -> #cs-header
+××¨××© ×××£ -> #cs-header
+×××× ×× × ×¢××× -> https://www.facebook.com/help/www/181495968648557
+×§×× ××××¢ × ××¡×£ -> https://www.facebook.com/help/212722115425932
+×××× -> https://www.facebook.com/help/www/128548343894719
+××××× ×¢× ×©××××© ××¨×¢× -> /help/181495968648557?ref=community_standards
+×§×××¢×ª ××ª××× ×©×××¦× ×× -> /help/212722115425932?ref=community_standards
+××× ×ª×§×©××¨×ª -> /help/128548343894719?ref=community_standards
+ -> #
+××¨×©×× -> /r.php
+××ª×××¨ -> /login/
+Messenger -> https://he-il.messenger.com/
+Facebook Lite -> /lite/
+×××¤×× × ××× -> /mobile/?ref=pf
+××¦×/× ×××¨×× -> /find-friends?ref=pf
+×× ×©×× -> /directory/people/
+××¤×× -> /directory/pages/
+××§××××ª -> /places/
+××©××§×× -> /games/
+×××§×××× -> /directory/places/
+××××¢× ×× -> /directory/celebrities/
+×§×××¦××ª -> /directory/groups/
+Moments -> http://l.facebook.com/l.php?u=http%3A%2F%2Fmomentsapp.com%2F&h=ATOnutXvIcqW4_45QIOf1NXET4TZN41kYMFEdcHGRdqvEv0Ou6TRPXRxArpvyJ-PrVEa1F9Z5lzR4Tx7jWBrP-5q2sgY3FO8J6Bw7ZFkMnyNM4Wl8Bk2nWU&s=1
+âInstagramâ -> https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2F&h=ATMZpmlMJycFigUORAWhQEih9cchhR_fMR5W8QPPKr3G8KinS0623OkdO-wweEhythmOBXHtKEMUDl6_UtCx3_WseaOSuHZ0ERoa5TnUZIsoSAyLoEjgeCY&s=1
+×××××ª -> /facebook
+×¦××¨/×¦×¨× ××××¢× -> /campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+×¦××¨/×¦×¨× ××£ -> /pages/create/?ref_type=sitefooter
+××¤×ª××× -> https://developers.facebook.com/?ref=pf
+×§×¨×××¨× -> /careers/?ref=pf
+×¤×¨××××ª -> /privacy/explanation
+×§×××¦× Cookie -> /policies/cookies/
+××××¨××ª ××§×©×¨ ×××××¢××ª -> https://www.facebook.com/help/568137493302217
+×ª× ××× -> /policies?ref=pf
+×¢××¨× -> /help/?ref=pf
+××××¨××ª -> /settings
+×××× ×¤×¢××××ª -> /allactivity?privacy_source=activity_log_top_menu

@@ -1,0 +1,16 @@
+ -> /communitystandards/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjE1Mjg2NTM4LCJjYWxsc2l0ZV9pZCI6MzQ5NzUyNzQyNzYwNjEwfQ%3D%3D
+ -> /communitystandards/?video
+developed a set of Community Standards -> https://lm.facebook.com/l.php?u=https%3A%2F%2Fnewsroom.fb.com%2Fnews%2F2019%2F04%2Finsidefeed-community-standards-development-process%2F&h=AT21Z1fQvLutyzNZtDPBmZ36j_YhqCtYEJcxyOgMevWwEJKIWenpshCu-XKuGAxkwJng-WiQ90XN0gvhw-o4MjSHCS-Edw_XNgmOjTMGyKdlKhOnlUv5snhVhplhyToiVcwQFgC4MTa0f1RhcEb2
+create a place for expression and give people a voice -> https://lm.facebook.com/l.php?u=https%3A%2F%2Fnewsroom.fb.com%2Fnews%2F2018%2F08%2Fhard-questions-free-expression%2F&h=AT0cMtBPChDOr0kTyprCG-bgoBDbjB9KdVVCMCog48lr3gVuJgVzCkac0SPD5Rjl5qmmT0jEs0zT-qlD1b7far4ByzuiHETwcRwZOX8MkCbRipNpIViSaA_BTN8Vb6rkMNsQ1k_px6YveUH4EwM9
+enforcement may be limited to circumstances where we have been provided with additional information and context. -> https://lm.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fnews%2F2020%2F11%2Fcommunity-standards-enforcement-report-nov-2020%2F&h=AT2CSVJ5iUrqMjncK47ZlppaAuv3Ms21PJShREDvE_8o8r7YVjP6wQiYi4tBFk6eab36Rm26x3_xnxqMJbl7DJsDK7m6wUFGbVN6tV72gAN1uz4-NSuUCAdZSO3xlRdGWxdnqS5Q3oKzzBsMKNbr
+block -> https://www.facebook.com/help/168009843260943?ref=ccs
+unfollow -> https://www.facebook.com/help/276458109035418?ref=ccs
+hide -> https://www.facebook.com/help/268028706671439?ref=ccs
+I.Violence and Criminal Behavior -> /communitystandards/violence_criminal_behavior/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjE1Mjg2NTM4LCJjYWxsc2l0ZV9pZCI6Mzg3OTcxMjgyMzgwNTA4fQ%3D%3D
+II.Safety -> /communitystandards/safety/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjE1Mjg2NTM4LCJjYWxsc2l0ZV9pZCI6Mzg3OTcxMjgyMzgwNTA4fQ%3D%3D
+III.Objectionable Content -> /communitystandards/objectionable_content/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjE1Mjg2NTM4LCJjYWxsc2l0ZV9pZCI6Mzg3OTcxMjgyMzgwNTA4fQ%3D%3D
+IV.Integrity and Authenticity -> /communitystandards/integrity_authenticity/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjE1Mjg2NTM4LCJjYWxsc2l0ZV9pZCI6Mzg3OTcxMjgyMzgwNTA4fQ%3D%3D
+V.Respecting Intellectual Property -> /communitystandards/respecting_intellectual_property/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjE1Mjg2NTM4LCJjYWxsc2l0ZV9pZCI6Mzg3OTcxMjgyMzgwNTA4fQ%3D%3D
+VI.Content-Related Requests and Decisions -> /communitystandards/content_related_requests/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjE1Mjg2NTM4LCJjYWxsc2l0ZV9pZCI6Mzg3OTcxMjgyMzgwNTA4fQ%3D%3D
+Additional Information -> /communitystandards/additional_information/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjE1Mjg2NTM4LCJjYWxsc2l0ZV9pZCI6Mzg3OTcxMjgyMzgwNTA4fQ%3D%3D
+Report Abuse -> /help/1380418588640631?ref=community_standards

@@ -1,0 +1,44 @@
+ -> /communitystandards/?fb_home
+समुदाय मानक -> /communitystandards/
+ -> /communitystandards/video/
+हमारी टीम का एक पत्र पढ़ें -> /communitystandards/?letter
+शीर्ष पर वापस जाएँ -> #cs-header
+शीर्ष पर वापस जाएँ -> #cs-header
+शीर्ष पर वापस जाएँ -> #cs-header
+शीर्ष पर वापस जाएँ -> #cs-header
+कृपया हमें उसकी रिपोर्ट करें -> https://www.facebook.com/help/www/181495968648557
+और जानें -> https://www.facebook.com/help/212722115425932
+टूल -> https://www.facebook.com/help/www/128548343894719
+दुर्व्यवहार की रिपोर्ट करना -> /help/181495968648557?ref=community_standards
+इसे नियंत्रित करना कि आपको क्या दिखाई दे -> /help/212722115425932?ref=community_standards
+संचार टूल -> /help/128548343894719?ref=community_standards
+ -> #
+साइन अप करें -> /r.php
+लॉग इन करें -> /login/
+मोबाइल -> /mobile/?ref=pf
+मित्रों को ढूँढें -> /find-friends?ref=pf
+पेज -> /directory/pages/
+मदद -> /help/?ref=pf
+Messenger -> https://hi-in.messenger.com/
+Facebook लाइट -> /lite/
+लोग -> /directory/people/
+स्थान -> /places/
+खेल -> /games/
+स्थान -> /directory/places/
+प्रतिष्ठित लोग -> /directory/celebrities/
+मार्केटप्लेस -> /marketplace/?ref=fb_home
+समूह -> /directory/groups/
+रेसिपी -> /recipes/
+Moments -> http://l.facebook.com/l.php?u=http%3A%2F%2Fmomentsapp.com%2F&h=ATNVBwtPtRkZUc9JiFt_5nTfqxGO4tph1TQpLKTHjNgDE4aSpouiNXIdM6DTDS0UDbLpTCaDlAj4TL1ySmqT58KRwuQduPJcgj5dIeDynaXc8kQNXsEPU2EDZEuH&s=1
+Instagram -> https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2F&h=ATPw0_Nf29Jt-RuyzcRUjLemM71SI_XcHc7VZUdIDq9_cvJECNjCQNQrzhwWLwQnroG8Rq5gL1FaBhqkJoKCtTsEnhItollLIQnthE3hKy4Mo7FPdjva-kMWyWxs&s=1
+Facebook का परिचय -> /facebook
+विज्ञापन बनाएँ -> /campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+पेज बनाएँ -> /pages/create/?ref_type=sitefooter
+डेवलपर -> https://developers.facebook.com/?ref=pf
+करियर -> /careers/?ref=pf
+गोपनीयता -> /privacy/explanation
+कुकी -> /policies/cookies/
+विज्ञापन विकल्प -> https://www.facebook.com/help/568137493302217
+शर्तें -> /policies?ref=pf
+सेटिंग -> /settings
+गतिविधि लॉग -> /allactivity?privacy_source=activity_log_top_menu

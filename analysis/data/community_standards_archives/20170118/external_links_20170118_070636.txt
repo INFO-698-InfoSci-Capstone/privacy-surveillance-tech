@@ -1,0 +1,41 @@
+ -> /communitystandards/?fb_home
+Topluluq ÃlÃ§Ã¼lÉri -> /communitystandards/
+Read a letter from our team -> /communitystandards/?letter
+YuxarÄ± Get -> #cs-header
+YuxarÄ± Get -> #cs-header
+YuxarÄ± Get -> #cs-header
+YuxarÄ± Get -> #cs-header
+please report it to us -> https://www.facebook.com/help/www/181495968648557
+Learn more -> https://www.facebook.com/help/212722115425932
+tools -> https://www.facebook.com/help/www/128548343894719
+Reporting Abuse -> /help/181495968648557?ref=community_standards
+Controlling What You See -> /help/212722115425932?ref=community_standards
+Communication Tools -> /help/128548343894719?ref=community_standards
+ -> #
+Qeydiyyatdan KeÃ§ -> /r.php
+Daxil ol -> /login/
+Messenger -> https://az-az.messenger.com/
+Facebook Lite -> /lite/
+Mobil -> /mobile/?ref=pf
+DostlarÄ±nÄ± tap -> /find-friends?ref=pf
+Ä°nsanlar -> /directory/people/
+SÉhifÉlÉr -> /directory/pages/
+MÉkanlar -> /places/
+Oyunlar -> /games/
+YerlÉr -> /directory/places/
+TanÄ±nmÄ±Ålar -> /directory/celebrities/
+Qruplar -> /directory/groups/
+Moments -> https://l.facebook.com/l.php?u=http%3A%2F%2Fmomentsapp.com%2F&h=ATMVXVFIU6yhsgmfZKpSuResA7I6isto7EoxNO7wwUQ7-ntsVFZGhlJAIzDmEIjVr52iCfOBvubsFGXYzvXmdumA2m48PqQHptncQ7Rz_rBFfrGKU0paqkbDTzc&s=1
+Instagram -> https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2F&h=ATOw8-G0UtMATi_9PHhyE9twXgtuYKV4y5Fkx3GY6A0ZeH_7ETvAy27Ha1rk2Jre-QrmBi3UbgkTsQgt1mnanRJdT2ZIPny4tITqUJgDZh4jz_2sNy9QTXRTw-Q&s=1
+HaqqÄ±mÄ±zda -> /facebook
+Reklam yarat -> /campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+SÉhifÉ yarat -> /pages/create/?ref_type=sitefooter
+YaradÄ±cÄ±lar -> https://developers.facebook.com/?ref=pf
+Karyera -> /careers/?ref=pf
+MÉxfilik -> /privacy/explanation
+KukilÉr -> /policies/cookies/
+Reklam seÃ§imlÉri -> https://www.facebook.com/help/568137493302217
+Qaydalar -> /policies?ref=pf
+YardÄ±m -> /help/?ref=pf
+QuraÅdÄ±rmalar -> /settings
+GÃ¶rdÃ¼yÃ¼n Ä°ÅlÉrin GÃ¼nlÃ¼yÃ¼ -> /allactivity?privacy_source=activity_log_top_menu

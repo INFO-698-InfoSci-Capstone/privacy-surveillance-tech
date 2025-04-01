@@ -1,0 +1,47 @@
+Bagian pada Halaman ini -> #
+Bantuan Aksesibilitas -> #
+ -> /communitystandards/?fb_home
+Standar Komunitas -> /communitystandards/
+Pelajari lebih lanjut mengenai cara kerjanya -> /communitystandards/video/
+Baca surat dari tim kami -> /communitystandards/?letter
+Kembali ke atas -> #cs-header
+Kembali ke atas -> #cs-header
+Kembali ke atas -> #cs-header
+Kembali ke atas -> #cs-header
+harap melaporkannya kepada kami -> https://www.facebook.com/help/www/181495968648557
+Pelajari selengkapnya -> https://www.facebook.com/help/212722115425932
+alat -> https://www.facebook.com/help/www/128548343894719
+Melaporkan Pelanggaran -> /help/181495968648557?ref=community_standards
+Mengendalikan Apa yang Anda Lihat -> /help/212722115425932?ref=community_standards
+Alat Komunikasi -> /help/128548343894719?ref=community_standards
+ -> #
+Daftar -> /r.php
+Masuk -> /login/
+Messenger -> https://id-id.messenger.com/
+Facebook Lite -> /lite/
+Seluler -> /mobile/?ref=pf
+Cari Teman -> /find-friends?ref=pf
+Orang -> /directory/people/
+Halaman -> /directory/pages/
+Tempat -> /places/
+Game -> /games/
+Lokasi -> /directory/places/
+Selebriti -> /directory/celebrities/
+Marketplace -> /marketplace/?ref=fb_home
+Grup -> /directory/groups/
+Resep -> /recipes/
+Olahraga -> /sport/
+Moments -> http://l.facebook.com/l.php?u=http%3A%2F%2Fmomentsapp.com%2F&h=ATOkRwa7GuJIm9S3dyleWOBq1S_0LZUSjsXma5UQ0GPJeWrjH1vwOdC3qsPTX5DlHd9WKXNJS6P8r-8nHQuurh1rrmElf5jc7ndmOWkPqW01uzBj09Ns6GCKybWfTg
+Instagram -> https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2F&h=ATNlIa5kvrxc-fU4_adbiFUZARCzIsy74Qo51wgpxhEY2O-0c6rYi2ifJAoF9H3ZuabLpKPZAhXLpdMt9jmL5jM50YNcDR9XZIfgzCmlxLy04k932cReT67KiSJejg
+Tentang -> /facebook
+Buat Iklan -> /campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+Buat Halaman -> /pages/create/?ref_type=sitefooter
+Pengembang -> https://developers.facebook.com/?ref=pf
+Karier -> /careers/?ref=pf
+Privasi -> /privacy/explanation
+Cookie -> /policies/cookies/
+Pilihan Iklan -> https://www.facebook.com/help/568137493302217
+Ketentuan -> /policies?ref=pf
+Bantuan -> /help/?ref=pf
+Pengaturan -> /settings
+Log Aktivitas -> /allactivity?privacy_source=activity_log_top_menu

@@ -1,0 +1,47 @@
+Sekcja tej strony -> #
+Pomoc w zakresie dostępności -> #
+ -> /communitystandards/?fb_home
+Standardy społeczności -> /communitystandards/
+Dowiedz się więcej o tym, jak to działa -> /communitystandards/video/
+Przeczytaj list od naszego zespołu -> /communitystandards/?letter
+Powrót na górę strony -> #cs-header
+Powrót na górę strony -> #cs-header
+Powrót na górę strony -> #cs-header
+Powrót na górę strony -> #cs-header
+zgłoś to -> https://www.facebook.com/help/www/181495968648557
+Dowiedz się więcej -> https://www.facebook.com/help/212722115425932
+narzędzia -> https://www.facebook.com/help/www/128548343894719
+Zgłaszanie naruszeń -> /help/181495968648557?ref=community_standards
+Kontrola nad wyświetlaną zawartością -> /help/212722115425932?ref=community_standards
+Narzędzia komunikacyjne -> /help/128548343894719?ref=community_standards
+ -> #
+Rejestracja -> /r.php
+Zaloguj się -> /login/
+Messenger -> https://pl-pl.messenger.com/
+Facebook Lite -> /lite/
+Facebook Mobile -> /mobile/?ref=pf
+Szukaj znajomych -> /find-friends?ref=pf
+Osoby -> /directory/people/
+Strony -> /directory/pages/
+Miejsca -> /places/
+Gry -> /games/
+Lokalizacje -> /directory/places/
+Gwiazdy -> /directory/celebrities/
+Marketplace -> /marketplace/?ref=fb_home
+Grupy -> /directory/groups/
+Przepisy -> /recipes/
+Sport -> /sport/
+Moments -> http://l.facebook.com/l.php?u=http%3A%2F%2Fmomentsapp.com%2F&h=ATNmpsy-JzJwr61pePY9xH517XG0ksRJeh7WltNuTPe6DceIktG0ah2AlVtAATvvrWrBhArkIAj62yizl5ikQdLcwBquMY7BWauJfzFWDg3Njp8m5rrCFcKoh4JGpw
+Instagram -> https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2F&h=ATMnGSCLbjoVVc28Xa2iscJOcr_2iEfQDWZzpzrh5SbWtB_Fm_mTwTohLRmJ9615YpaMeenFe4a0udxXeMUcD9bzhH86F4Ygm5vZi5J5xNMLvMwHGe3DVPtwI63zig
+O Facebooku -> /facebook
+Utwórz reklamę -> /campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+Utwórz stronę -> /pages/create/?ref_type=sitefooter
+Twórcy aplikacji -> https://developers.facebook.com/?ref=pf
+Praca -> /careers/?ref=pf
+Prywatność -> /privacy/explanation
+Pliki cookie -> /policies/cookies/
+Opcje wyświetlania reklam -> https://www.facebook.com/help/568137493302217
+Regulamin -> /policies?ref=pf
+Pomoc -> /help/?ref=pf
+Ustawienia -> /settings
+Dziennik aktywności -> /allactivity?privacy_source=activity_log_top_menu

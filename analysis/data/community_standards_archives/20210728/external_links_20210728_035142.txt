@@ -1,0 +1,17 @@
+ -> /communitystandards/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjI3NDQ0MzA4LCJjYWxsc2l0ZV9pZCI6MzQ5NzUyNzQyNzYwNjEwfQ%3D%3D
+ -> /communitystandards/?video
+developed a set of Community Standards -> https://lm.facebook.com/l.php?u=https%3A%2F%2Fnewsroom.fb.com%2Fnews%2F2019%2F04%2Finsidefeed-community-standards-development-process%2F&h=AT37TXqxCrxd-RhlugU0lTt251ZVlm2zNrux49hbygJpbSQPcZRwVwEpy1vMhjQzXaFtOWoB6lrdAbVuhs0oFJWBmb-tNcRyAn4GiN6qktYmb8hOss46PGqCBM_O3UYEM6y_yliEEgFmLCEBWRMVw2GL27y9slks1Imzqtzl0q-eWoXIYg
+create a place for expression and give people a voice -> https://lm.facebook.com/l.php?u=https%3A%2F%2Fnewsroom.fb.com%2Fnews%2F2018%2F08%2Fhard-questions-free-expression%2F&h=AT205RVnmfF92F3rJq1QAamGJqXovUYhVAMfQS5wwgHSCWlqcEVknrd26mevhJKJelosY9GYvqBfCMb_T9TKQ4oksTe9YuaOYnll69bKbmRc9dq9vY8-0PNU4J2fbb32V084lAb-LiTmkI5uP5ewySl0p4y29hJVI8nZ
+as reflected in our Corporate Human Rights Policy, -> https://lm.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fwp-content%2Fuploads%2F2021%2F03%2FFacebooks-Corporate-Human-Rights-Policy.pdf&h=AT3c9U1QBFrgnvizM4LNtnQcizLCZxSfWKAKDg4HgZv2ILYhUqce8hGp1WG5meihpXlsrUWnucheUhhXev-di_RKv5xAtyquIpIcEcXzFnt81HN-uTedMGxfxWNKHONUWVZyWeZIvwWMxgVx3yOogVcS6zRHH4D11pm7
+enforcement may be limited to circumstances where we have been provided with additional information and context. -> https://lm.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fnews%2F2020%2F11%2Fcommunity-standards-enforcement-report-nov-2020%2F&h=AT1ZQhsnJ7LtzlN1HuGZVZekIy1XQKCn7ZgWGBDuIjtcbRv4Th9xE39mBAmJ_JZZc-RnHQ1KQQNispO33YqC8389REXoRwTjVySjO5VWC8-IK1ZeTMn_YiNpaVL00Hx0q5l9NZJIiR2OtbFSeIwmn_jyW8l1hzyoictZ
+block -> https://www.facebook.com/help/168009843260943?ref=ccs
+unfollow -> https://www.facebook.com/help/276458109035418?ref=ccs
+hide -> https://www.facebook.com/help/268028706671439?ref=ccs
+I.Violence and Criminal Behavior -> /communitystandards/violence_criminal_behavior/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjI3NDQ0MzA4LCJjYWxsc2l0ZV9pZCI6Mzg3OTcxMjgyMzgwNTA4fQ%3D%3D
+II.Safety -> /communitystandards/safety/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjI3NDQ0MzA4LCJjYWxsc2l0ZV9pZCI6Mzg3OTcxMjgyMzgwNTA4fQ%3D%3D
+III.Objectionable Content -> /communitystandards/objectionable_content/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjI3NDQ0MzA4LCJjYWxsc2l0ZV9pZCI6Mzg3OTcxMjgyMzgwNTA4fQ%3D%3D
+IV.Integrity and Authenticity -> /communitystandards/integrity_authenticity/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjI3NDQ0MzA4LCJjYWxsc2l0ZV9pZCI6Mzg3OTcxMjgyMzgwNTA4fQ%3D%3D
+V.Respecting Intellectual Property -> /communitystandards/respecting_intellectual_property/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjI3NDQ0MzA4LCJjYWxsc2l0ZV9pZCI6Mzg3OTcxMjgyMzgwNTA4fQ%3D%3D
+VI.Content-Related Requests and Decisions -> /communitystandards/content_related_requests/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjI3NDQ0MzA4LCJjYWxsc2l0ZV9pZCI6Mzg3OTcxMjgyMzgwNTA4fQ%3D%3D
+Additional Information -> /communitystandards/additional_information/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjI3NDQ0MzA4LCJjYWxsc2l0ZV9pZCI6Mzg3OTcxMjgyMzgwNTA4fQ%3D%3D
+Report Abuse -> /help/1380418588640631?ref=community_standards

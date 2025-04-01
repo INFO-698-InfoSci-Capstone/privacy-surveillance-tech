@@ -1,0 +1,48 @@
+Secciones de esta página -> #
+Ayuda sobre accesibilidad -> #
+ -> /communitystandards/?fb_home
+Normas comunitarias -> /communitystandards/
+Obtén más información sobre cómo funciona -> /communitystandards/video/
+Leer carta de nuestro equipo -> /communitystandards/?letter
+Volver arriba -> #cs-header
+Volver arriba -> #cs-header
+Volver arriba -> #cs-header
+Volver arriba -> #cs-header
+repórtalo -> https://www.facebook.com/help/www/181495968648557
+Más información -> https://www.facebook.com/help/212722115425932
+herramientas -> https://www.facebook.com/help/www/128548343894719
+Reportar abuso -> /help/181495968648557?ref=community_standards
+Controlar lo que ves -> /help/212722115425932?ref=community_standards
+Herramientas de comunicación -> /help/128548343894719?ref=community_standards
+ -> #
+Registrarte -> /r.php
+Iniciar sesión -> /login/
+Messenger -> https://es-la.messenger.com/
+Facebook Lite -> /lite/
+Celular -> /mobile/?ref=pf
+Buscar amigos -> /find-friends?ref=pf
+Personas -> /directory/people/
+Páginas -> /directory/pages/
+Lugares -> /places/
+Juegos -> /games/
+Ubicaciones -> /directory/places/
+Famosos -> /directory/celebrities/
+Marketplace -> /directory/marketplace/
+Grupos -> /directory/groups/
+Recetas -> /recipes/
+Deporte -> /sport/
+Mirar -> /look/directory/
+Moments -> http://l.facebook.com/l.php?u=http%3A%2F%2Fmomentsapp.com%2F&h=ATNo5YW45EoLDMEg6Krh2eXAfahT8AiWM9lylXZGJ2bF-hzb0bcDsuvB640McLH7wKH-g6i8hWArhSK0hyCjIoEBwyKwhLQvTsrewvXcq7xhPdu-Y-Ur_9JW7WpHtg
+Instagram -> https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2F&h=ATOag9aU6lglpAVbIVYFixBg6hHLrwvounWNkCtXw-u7wRArJWlht62PAmlMreCU73StUM_Ae5XSg8ZW_ciaPY3yTYkbbUaDQx2-IBKdCGyQNqEe30aCnn8RGIXYgg
+Información -> /facebook
+Crear anuncio -> /campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+Crear página -> /pages/create/?ref_type=sitefooter
+Desarrolladores -> https://developers.facebook.com/?ref=pf
+Empleo -> /careers/?ref=pf
+Privacidad -> /privacy/explanation
+Cookies -> /policies/cookies/
+Opciones de anuncios -> https://www.facebook.com/help/568137493302217
+Condiciones -> /policies?ref=pf
+Ayuda -> /help/?ref=pf
+Configuración -> /settings
+Registro de actividad -> /allactivity?privacy_source=activity_log_top_menu

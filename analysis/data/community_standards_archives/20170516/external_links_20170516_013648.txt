@@ -1,0 +1,43 @@
+ -> /communitystandards/?fb_home
+YhteisÃ¶normit -> /communitystandards/
+Lue tiimimme lÃ¤hettÃ¤mÃ¤ kirje -> /communitystandards/?letter
+Palaa alkuun -> #cs-header
+Palaa alkuun -> #cs-header
+Palaa alkuun -> #cs-header
+Palaa alkuun -> #cs-header
+ilmianna sisÃ¤ltÃ¶ meille -> https://www.facebook.com/help/www/181495968648557
+LisÃ¤tietoja -> https://www.facebook.com/help/212722115425932
+tyÃ¶kaluja -> https://www.facebook.com/help/www/128548343894719
+VÃ¤Ã¤rinkÃ¤ytÃ¶n ilmiantaminen -> /help/181495968648557?ref=community_standards
+SisÃ¤llÃ¶n valvominen -> /help/212722115425932?ref=community_standards
+ViestintÃ¤tyÃ¶kalut -> /help/128548343894719?ref=community_standards
+ -> #
+RekisterÃ¶idy -> /r.php
+Kirjaudu sisÃ¤Ã¤n -> /login/
+Messenger -> https://fi-fi.messenger.com/
+Facebook Lite -> /lite/
+Mobile -> /mobile/?ref=pf
+Etsi kavereita -> /find-friends?ref=pf
+HenkilÃ¶t -> /directory/people/
+Sivut -> /directory/pages/
+Paikat -> /places/
+Pelit -> /games/
+Sijainnit -> /directory/places/
+Julkisuuden henkilÃ¶t -> /directory/celebrities/
+Markkinapaikka -> /marketplace/?ref=fb_home
+RyhmÃ¤t -> /directory/groups/
+Reseptit -> /recipes/
+Hetket -> http://l.facebook.com/l.php?u=http%3A%2F%2Fmomentsapp.com%2F&h=ATMVp0FBhH-evtrde4K9baBzDVgj-6Nq-Qx1gfn6v9gumm-elfbpm-vaG-1bZcsA6toEZBjNehWkUk1nggOWGQIPJ2Nge8pkljEtPGPljYtEs8Rp27AtxUo&s=1
+Instagram -> https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2F&h=ATPdO87K4R91Yh-d-wV0dX6YyCm3Bn4YouE66w82SYVvib6a-zWDWs4lGNt1N7bUhPZgWyJrBSmR-YbMGeeazqabKJpuySC9-UezqUsP2eFxuN7FSYI-d2k&s=1
+Tietoja -> /facebook
+Luo mainos -> /campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+Luo sivu -> /pages/create/?ref_type=sitefooter
+KehittÃ¤jÃ¤t -> https://developers.facebook.com/?ref=pf
+TyÃ¶paikat -> /careers/?ref=pf
+Yksityisyys -> /privacy/explanation
+EvÃ¤steet -> /policies/cookies/
+Mainokseni -> https://www.facebook.com/help/568137493302217
+KÃ¤yttÃ¶ehdot -> /policies?ref=pf
+Ohje -> /help/?ref=pf
+Asetukset -> /settings
+Toimintaloki -> /allactivity?privacy_source=activity_log_top_menu

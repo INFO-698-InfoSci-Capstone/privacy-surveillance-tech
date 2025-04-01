@@ -1,0 +1,41 @@
+Bereiche dieser Seite -> #
+Bedienhilfen -> #
+Facebook -> https://www.facebook.com/
+Passwort vergessen? -> https://www.facebook.com/recover/initiate?lwv=110&ars=royal_blue_bar
+Registrieren -> /r.php?locale=de_DE
+Zurück zur Startseite -> /
+ -> #
+Registrieren -> /r.php
+Anmelden -> /login/
+Messenger -> https://messenger.com/
+Facebook Lite -> /lite/
+Watch -> https://www.facebook.com/watch/
+Personen -> /directory/people/
+Seiten -> /directory/pages/
+Seitenkategorien -> /pages/category/
+Orte -> /places/
+Spiele -> /games/
+Standorte -> /directory/places/
+Marketplace -> /marketplace/
+Facebook Pay -> https://pay.facebook.com/
+Gruppen -> /directory/groups/
+Jobs -> /jobs/
+Oculus -> https://www.oculus.com/
+Portal -> https://portal.facebook.com/
+Instagram -> https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F&h=AT3b_fZstWGeIpNnFgn0dOqCBY-mJCJjpd_e9z8qGMlCQigjyo2gl8F1Zeoy-KApC7uMVkR4RjMZQjoH9Ort-TN8h69tjbazanqZEDMuthqe8wbniHoVloT6mTj0IFCOSjy5YDhPlQ7FHxv9__TqoIACXyKzVtxzdQwIQg
+Lokales -> /local/lists/245019872666104/
+Spendenaktionen -> /fundraisers/
+Services -> /biz/directory/
+Wahl-Informationszentrum -> /votinginformationcenter/?entry_point=c2l0ZQ%3D%3D
+Über uns -> /facebook
+Werbeanzeige erstellen -> /ad_campaign/landing.php?placement=pflo&campaign_id=402047449186&nav_source=unknown&extra_1=auto
+Seite erstellen -> /pages/create/?ref_type=site_footer
+Entwickler -> https://developers.facebook.com/?ref=pf
+Karriere -> /careers/?ref=pf
+Privatsphäre -> /privacy/explanation
+Cookies -> /policies/cookies/
+Datenschutzinfo -> https://www.facebook.com/help/568137493302217
+Impressum/AGB/NetzDG -> /legal/terms?ref=pf
+Hilfe -> /help/?ref=pf
+Einstellungen -> /settings
+Aktivitätenprotokoll -> /allactivity?privacy_source=activity_log_top_menu

@@ -1,0 +1,43 @@
+ -> /communitystandards/?fb_home
+Normas comunitarias -> /communitystandards/
+Leer una carta de nuestro equipo -> /communitystandards/?letter
+Volver arriba -> #cs-header
+Volver arriba -> #cs-header
+Volver arriba -> #cs-header
+Volver arriba -> #cs-header
+repÃ³rtalo -> https://www.facebook.com/help/www/181495968648557
+MÃ¡s informaciÃ³n -> https://www.facebook.com/help/212722115425932
+herramientas -> https://www.facebook.com/help/www/128548343894719
+Reportar abuso -> /help/181495968648557?ref=community_standards
+Controlar lo que ves -> /help/212722115425932?ref=community_standards
+Herramientas de comunicaciÃ³n -> /help/128548343894719?ref=community_standards
+ -> #
+Registrarte -> /r.php
+Iniciar sesiÃ³n -> /login/
+Messenger -> https://es-la.messenger.com/
+Facebook Lite -> /lite/
+Celular -> /mobile/?ref=pf
+Buscar amigos -> /find-friends?ref=pf
+Personas -> /directory/people/
+PÃ¡ginas -> /directory/pages/
+Lugares -> /places/
+Juegos -> /games/
+Ubicaciones -> /directory/places/
+Famosos -> /directory/celebrities/
+Mercado -> /marketplace/?ref=fb_home
+Grupos -> /directory/groups/
+Recetas -> /recipes/
+Moments -> http://l.facebook.com/l.php?u=http%3A%2F%2Fmomentsapp.com%2F&h=ATP8O1c6tYqo5eIqctxNFMb_a56VZxisRWyX-HFDFymi7mMhbSbIYdg66JaRWz4EI_5C17_TXnCGKNs0LWUaz4clF7xd3h1DIyhZHV6qnx3w_wyfaKgNQnM&s=1
+Instagram -> https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2F&h=ATNmNJX_GDwVU48oyNoNq4G0QTGTWWstvnmb7C2W2Rr0W2GEfPY92LfjzNvp5jtBKH0l87JPFDB6_l4v6_1GzRaLxga8xPQLCPtkmvBLYlyOmXi8K8fkcGM&s=1
+InformaciÃ³n -> /facebook
+Crear anuncio -> /campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+Crear pÃ¡gina -> /pages/create/?ref_type=sitefooter
+Desarrolladores -> https://developers.facebook.com/?ref=pf
+Empleo -> /careers/?ref=pf
+Privacidad -> /privacy/explanation
+Cookies -> /policies/cookies/
+Opciones de anuncios -> https://www.facebook.com/help/568137493302217
+Condiciones -> /policies?ref=pf
+Ayuda -> /help/?ref=pf
+ConfiguraciÃ³n -> /settings
+Registro de actividad -> /allactivity?privacy_source=activity_log_top_menu

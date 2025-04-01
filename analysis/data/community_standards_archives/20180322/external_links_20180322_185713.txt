@@ -1,0 +1,50 @@
+Bu sayfanın kısımları -> #
+Erişilebilirlik Yardımı -> #
+Çerezler İlkesi -> https://www.facebook.com/policies/cookies/
+ -> /communitystandards/?fb_home
+Topluluk Standartları -> /communitystandards/
+ -> /communitystandards/video/
+Ekibimizin mektubunu oku -> /communitystandards/?letter
+Başa dön -> #cs-header
+Başa dön -> #cs-header
+Başa dön -> #cs-header
+Başa dön -> #cs-header
+lütfen bize şikayet edin -> https://www.facebook.com/help/www/181495968648557
+Daha fazla bilgi alın -> https://www.facebook.com/help/212722115425932
+araçlar -> https://www.facebook.com/help/www/128548343894719
+Kötüye Kullanım Şikayeti -> /help/181495968648557?ref=community_standards
+Neler Göreceğinizi Yönetme -> /help/212722115425932?ref=community_standards
+İletişim Araçları -> /help/128548343894719?ref=community_standards
+ -> #
+Kaydol -> /r.php
+Giriş Yap -> /login/
+Messenger -> https://tr-tr.messenger.com/
+Facebook Lite -> /lite/
+Mobil -> /mobile/?ref=pf
+Arkadaşlarını Bul -> /find-friends?ref=pf
+Kişiler -> /directory/people/
+Sayfalar -> /directory/pages/
+Yerler -> /places/
+Oyunlar -> /games/
+Konumlar -> /directory/places/
+Ünlüler -> /directory/celebrities/
+Marketplace -> /directory/marketplace/
+Gruplar -> /directory/groups/
+Tarifler -> /recipes/
+Spor -> /sport/
+Gör -> /look/directory/
+Moments -> http://l.facebook.com/l.php?u=http%3A%2F%2Fmomentsapp.com%2F&h=ATPeEGNkaPFRM1x5uBHhw1hN6wtE2tzandrEhDv1VVaufuA2Ja8leU8cGBpJz6KM5sxUYEEQ5WXmXh5-dy-kkayAlx-lK6D-H2kKBnlKhT09PddV41_wAqSSJ_P_i524
+Instagram -> https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2F&h=ATO0Qq4HqplHwFLVI-QedlRP7Xu5nBXH7ruQYCwRsCGQOxKG0kz66A1evSC0iWYx_GpdjZq2bNmTnlGSzaeRZDgiQThCzhk3toP7A6ZujSzHp29zXv49lwGf50CAzPWT
+Yerel -> /local/lists/245019872666104/
+Hakkımızda -> /facebook
+Reklam Oluştur -> /ad_campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+Sayfa Oluştur -> /pages/create/?ref_type=sitefooter
+Geliştiriciler -> https://developers.facebook.com/?ref=pf
+Kariyer Olanakları -> /careers/?ref=pf
+Gizlilik -> /privacy/explanation
+Çerezler -> /policies/cookies/
+Ad Choices -> https://www.facebook.com/help/568137493302217
+Koşullar -> /policies?ref=pf
+Yardım -> /help/?ref=pf
+Ayarlar -> /settings
+Hareketler Dökümü -> /allactivity?privacy_source=activity_log_top_menu

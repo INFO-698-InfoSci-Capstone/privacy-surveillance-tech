@@ -1,0 +1,40 @@
+ -> /communitystandards/?fb_home
+ã³ãã¥ããã£è¦å® -> /communitystandards/
+å½ãµã¤ãããã®ã¡ãã»ã¼ã¸ -> /communitystandards/?letter
+ãã¼ã¸ãããã¸ -> #cs-header
+ãã¼ã¸ãããã¸ -> #cs-header
+ãã¼ã¸ãããã¸ -> #cs-header
+ãã¼ã¸ãããã¸ -> #cs-header
+ä¸æ­£å©ç¨ã®å ±å -> /help/181495968648557?ref=community_standards
+è¡¨ç¤ºãããã³ã³ãã³ãã®ã³ã³ãã­ã¼ã« -> /help/212722115425932?ref=community_standards
+ã³ãã¥ãã±ã¼ã·ã§ã³ãã¼ã« -> /help/128548343894719?ref=community_standards
+å¼ç¤¾ã«ãå ±åãã ãã -> https://www.facebook.com/help/www/181495968648557
+è©³ããã¯ãã¡ãããè¦§ãã ãã -> https://www.facebook.com/help/212722115425932
+ãã¼ã« -> https://www.facebook.com/help/www/128548343894719
+ -> #
+ã¢ã«ã¦ã³ãç»é² -> /r.php
+ã­ã°ã¤ã³ -> /login/
+Messenger -> https://ja-jp.messenger.com/
+Facebook Lite -> /lite/
+ã¢ãã¤ã« -> /mobile/?ref=pf
+åéãæ¤ç´¢ -> /find-friends?ref=pf
+ããã¼ -> /badges/?ref=pf
+ã¦ã¼ã¶ã¼ -> /directory/people/
+Facebookãã¼ã¸ -> /directory/pages/
+ã¹ããã -> /places/
+ã²ã¼ã -> /games/
+å ´æ -> /directory/places/
+æåäºº -> /directory/celebrities/
+ã°ã«ã¼ã -> /directory/groups/
+Facebookã«ã¤ãã¦ -> /facebook
+åºåãä½æ -> /campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+ãã¼ã¸ãä½æ -> /pages/create/?ref_type=sitefooter
+éçºè -> https://developers.facebook.com/?ref=pf
+æ¡ç¨æå ± -> /careers/?ref=pf
+ãã©ã¤ãã·ã¼ -> /privacy/explanation
+Cookie -> /help/cookies/?ref=sitefooter
+AdChoices -> https://www.facebook.com/help/568137493302217
+è¦ç´ -> /policies/?ref=pf
+ãã«ã -> /help/?ref=pf
+è¨­å® -> /settings
+ã¢ã¯ãã£ããã£ã­ã° -> /allactivity?privacy_source=activity_log_top_menu

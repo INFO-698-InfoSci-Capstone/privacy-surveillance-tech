@@ -1,0 +1,41 @@
+ -> /communitystandards/?fb_home
+Topluluk StandartlarÄ± -> /communitystandards/
+Ekibimizin mektubunu oku -> /communitystandards/?letter
+BaÅa dÃ¶n -> #cs-header
+BaÅa dÃ¶n -> #cs-header
+BaÅa dÃ¶n -> #cs-header
+BaÅa dÃ¶n -> #cs-header
+lÃ¼tfen bize Åikayet edin -> https://www.facebook.com/help/www/181495968648557
+Daha fazla bilgi alÄ±n -> https://www.facebook.com/help/212722115425932
+araÃ§lar -> https://www.facebook.com/help/www/128548343894719
+KÃ¶tÃ¼ye KullanÄ±m Åikayeti -> /help/181495968648557?ref=community_standards
+Neler GÃ¶receÄinizi YÃ¶netme -> /help/212722115425932?ref=community_standards
+Ä°letiÅim AraÃ§larÄ± -> /help/128548343894719?ref=community_standards
+ -> #
+Kaydol -> /r.php
+GiriÅ Yap -> /login/
+Messenger -> https://tr-tr.messenger.com/
+Facebook Lite -> /lite/
+Mobil -> /mobile/?ref=pf
+ArkadaÅlarÄ±nÄ± Bul -> /find-friends?ref=pf
+KiÅiler -> /directory/people/
+Sayfalar -> /directory/pages/
+Yerler -> /places/
+Oyunlar -> /games/
+Konumlar -> /directory/places/
+ÃnlÃ¼ler -> /directory/celebrities/
+Gruplar -> /directory/groups/
+Moments -> http://l.facebook.com/l.php?u=http%3A%2F%2Fmomentsapp.com%2F&h=ATMzLEgSGToKwRk0MRR7R96iW7LZiMzS0WTmar2VChMGfqWvDElahJeSpLpf6bpM8p7J_0PYEQKFkRKZSxaAwUh20lIvUwH7DmDqMa9xGTZXqk9501EC0MQ&s=1
+Instagram -> https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2F&h=ATNh4fZ8XM4k81gDLbfMYLt4JGjxFAmvroEe2FoWmes_T3ubSea0P81qs82VUJ03z2WO0CA48Dchp91sq9CNwOu9lrNOedhuclAmTe4ZwusY4i6Yzlmc8cM&s=1
+HakkÄ±mÄ±zda -> /facebook
+Reklam OluÅtur -> /campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+Sayfa OluÅtur -> /pages/create/?ref_type=sitefooter
+GeliÅtiriciler -> https://developers.facebook.com/?ref=pf
+Kariyer OlanaklarÄ± -> /careers/?ref=pf
+Gizlilik -> /privacy/explanation
+Ãerezler -> /policies/cookies/
+Ad Choices -> https://www.facebook.com/help/568137493302217
+KoÅullar -> /policies?ref=pf
+YardÄ±m -> /help/?ref=pf
+Ayarlar -> /settings
+Hareketler DÃ¶kÃ¼mÃ¼ -> /allactivity?privacy_source=activity_log_top_menu

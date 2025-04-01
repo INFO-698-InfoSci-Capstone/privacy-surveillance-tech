@@ -1,0 +1,4 @@
+이 페이지의 섹션 -> #
+접근성 도움말 -> #
+더 알아보기 -> /unsupportedbrowser
+악용 사례 신고 -> /help/181495968648557?ref=community_standards

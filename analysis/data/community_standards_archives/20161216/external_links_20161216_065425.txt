@@ -1,0 +1,42 @@
+Cookie-Richtlinie -> https://www.facebook.com/policies/cookies/
+ -> /communitystandards/?fb_home
+Gemeinschaftsstandards -> /communitystandards/
+Brief von unserem Team lesen -> /communitystandards/?letter
+ZurÃ¼ck nach oben -> #cs-header
+ZurÃ¼ck nach oben -> #cs-header
+ZurÃ¼ck nach oben -> #cs-header
+ZurÃ¼ck nach oben -> #cs-header
+melde uns das bitte -> https://www.facebook.com/help/www/181495968648557
+Mehr dazu -> https://www.facebook.com/help/212722115425932
+Funktionen -> https://www.facebook.com/help/www/128548343894719
+Missbrauch melden -> /help/181495968648557?ref=community_standards
+Dir angezeigte Inhalte kontrollieren -> /help/212722115425932?ref=community_standards
+Kommunikations-Tools -> /help/128548343894719?ref=community_standards
+ -> #
+Registrieren -> /r.php
+Anmelden -> /login/
+Messenger -> https://de-de.messenger.com/
+Facebook Lite -> /lite/
+Handy -> /mobile/?ref=pf
+Freunde finden -> /find-friends?ref=pf
+Nutzer -> /directory/people/
+Seiten -> /directory/pages/
+Orte -> /places/
+Spiele -> /games/
+Standorte -> /directory/places/
+Stars -> /directory/celebrities/
+Gruppen -> /directory/groups/
+Moments -> http://l.facebook.com/l.php?u=http%3A%2F%2Fmomentsapp.com%2F&h=ATMH3YeQBVnx4zmo960RTDM7vh5jdHCykc01SFU6flCSJxPznyZwxRLZyMXPodDxqrwHxY5X8XgKiI6tYlLNk1Q8eb-UaXSxR2hBQPykw6erCipo3r23wswFxmo&s=1
+Instagram -> https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2F&h=ATPYDqB9aZItu3uBo3rTd7YpgpPa7h8rjRReF88bDXhFZLJKZeAGqMCzp4-ecawXSpvC19hYr5dIfbs2n_pv8FMA_7nZbr4IQRMRqRfgeJFxYLAd-2W0TlK5Pyc&s=1
+Ãber uns -> /facebook
+Werbeanzeige erstellen -> /campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+Seite erstellen -> /pages/create/?ref_type=sitefooter
+Entwickler -> https://developers.facebook.com/?ref=pf
+Karriere -> /careers/?ref=pf
+Datenschutz -> /privacy/explanation
+Cookies -> /policies/cookies/
+Datenschutzinfo -> https://www.facebook.com/help/568137493302217
+Impressum/Nutzungsbedingungen -> /policies/?ref=pf
+Hilfe -> /help/?ref=pf
+Einstellungen -> /settings
+AktivitÃ¤tenprotokoll -> /allactivity?privacy_source=activity_log_top_menu

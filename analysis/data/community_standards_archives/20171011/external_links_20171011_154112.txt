@@ -1,0 +1,48 @@
+Abschnitte dieser Seite -> #
+Zugriffshilfe -> #
+ -> /communitystandards/?fb_home
+Gemeinschaftsstandards -> /communitystandards/
+Erfahre mehr darüber -> /communitystandards/video/
+Brief von unserem Team lesen -> /communitystandards/?letter
+Zurück nach oben -> #cs-header
+Zurück nach oben -> #cs-header
+Zurück nach oben -> #cs-header
+Zurück nach oben -> #cs-header
+melde uns das bitte -> https://www.facebook.com/help/www/181495968648557
+Mehr dazu -> https://www.facebook.com/help/212722115425932
+Funktionen -> https://www.facebook.com/help/www/128548343894719
+Missbrauch melden -> /help/181495968648557?ref=community_standards
+Dir angezeigte Inhalte kontrollieren -> /help/212722115425932?ref=community_standards
+Kommunikations-Tools -> /help/128548343894719?ref=community_standards
+ -> #
+Registrieren -> /r.php
+Anmelden -> /login/
+Messenger -> https://de-de.messenger.com/
+Facebook Lite -> /lite/
+Handy -> /mobile/?ref=pf
+Freunde finden -> /find-friends?ref=pf
+Nutzer -> /directory/people/
+Seiten -> /directory/pages/
+Orte -> /places/
+Spiele -> /games/
+Standorte -> /directory/places/
+Stars -> /directory/celebrities/
+Marketplace -> /directory/marketplace/
+Gruppen -> /directory/groups/
+Rezepte -> /recipes/
+Sport -> /sport/
+Look -> /look/directory/
+Moments -> http://l.facebook.com/l.php?u=http%3A%2F%2Fmomentsapp.com%2F&h=ATMh1o1kTf43Z3zWy-4YaRT_o3kb6t-Qr9lyDKvowBjooz4Qd95fvRPr9aHzsxA_pGqqnna0bXexFM9HDCIJ2D1sC7SnDyJ6lK3jHB2Cst1-CMKkaiS48Ew2EYQHhQ
+Instagram -> https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2F&h=ATNQwPDKLRszuMCggAeOdvvbqzNURbzRDHsV5kwrS6WEsJcchiHY2Bu1_OYRB5jygouK70rHmE9BNysX96bt6dGTsgohFtx5Zyo62b9GqRZmMqrPnssXXMC1q5bxNQ
+Über uns -> /facebook
+Werbeanzeige erstellen -> /campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+Seite erstellen -> /pages/create/?ref_type=sitefooter
+Entwickler -> https://developers.facebook.com/?ref=pf
+Karriere -> /careers/?ref=pf
+Datenschutz -> /privacy/explanation
+Cookies -> /policies/cookies/
+Datenschutzinfo -> https://www.facebook.com/help/568137493302217
+Nutzungsbedingungen -> /policies?ref=pf
+Hilfe -> /help/?ref=pf
+Einstellungen -> /settings
+Aktivitätenprotokoll -> /allactivity?privacy_source=activity_log_top_menu

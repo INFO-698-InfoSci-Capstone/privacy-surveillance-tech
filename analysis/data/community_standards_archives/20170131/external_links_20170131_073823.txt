@@ -1,0 +1,41 @@
+ -> /communitystandards/?fb_home
+Standardy spoÅecznoÅci -> /communitystandards/
+Przeczytaj list od naszego zespoÅu -> /communitystandards/?letter
+PowrÃ³t na gÃ³rÄ strony -> #cs-header
+PowrÃ³t na gÃ³rÄ strony -> #cs-header
+PowrÃ³t na gÃ³rÄ strony -> #cs-header
+PowrÃ³t na gÃ³rÄ strony -> #cs-header
+zgÅoÅ to -> https://www.facebook.com/help/www/181495968648557
+Dowiedz siÄ wiÄcej -> https://www.facebook.com/help/212722115425932
+narzÄdzia -> https://www.facebook.com/help/www/128548343894719
+ZgÅaszanie naruszeÅ -> /help/181495968648557?ref=community_standards
+Kontrola nad wyÅwietlanÄ zawartoÅciÄ -> /help/212722115425932?ref=community_standards
+NarzÄdzia komunikacyjne -> /help/128548343894719?ref=community_standards
+ -> #
+Rejestracja -> /r.php
+Zaloguj siÄ -> /login/
+Messenger -> https://pl-pl.messenger.com/
+Facebook Lite -> /lite/
+Facebook Mobile -> /mobile/?ref=pf
+Szukaj znajomych -> /find-friends?ref=pf
+Osoby -> /directory/people/
+Strony -> /directory/pages/
+Miejsca -> /places/
+Gry -> /games/
+Lokalizacje -> /directory/places/
+Gwiazdy -> /directory/celebrities/
+Grupy -> /directory/groups/
+Momenty -> http://l.facebook.com/l.php?u=http%3A%2F%2Fmomentsapp.com%2F&h=ATOv5uktYgin2C__3AAII0GsXV7VOHyN6WqNz6_JyLvhwJCQdVcJc6t2wmqR_W1V1hgT5e_4BfwgYxoWE1SCUXX9FLhkDSoY8I6maDLYSa6f-qA_NnSv8KU&s=1
+Instagram -> https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2F&h=ATMhAg5dPPkyrQUZhE62QLhe-M0ld0XAID614gcjHI1fiVnhSQjSyrUs3-_GoVCvGdG7kI4FqlIvfSeH-4RCNyMr8_RqyPff11SiozEmsTSbG9Qu8OYCTlk&s=1
+O Facebooku -> /facebook
+UtwÃ³rz reklamÄ -> /campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+UtwÃ³rz stronÄ -> /pages/create/?ref_type=sitefooter
+TwÃ³rcy aplikacji -> https://developers.facebook.com/?ref=pf
+Praca -> /careers/?ref=pf
+PrywatnoÅÄ -> /privacy/explanation
+Pliki cookie -> /policies/cookies/
+Opcje wyÅwietlania reklam -> https://www.facebook.com/help/568137493302217
+Regulamin -> /policies?ref=pf
+Pomoc -> /help/?ref=pf
+Ustawienia -> /settings
+Dziennik aktywnoÅci -> /allactivity?privacy_source=activity_log_top_menu

@@ -1,0 +1,15 @@
+ -> /communitystandards/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2NjYyNDYwLCJjYWxsc2l0ZV9pZCI6MzQ5NzUyNzQyNzYwNjEwfQ%3D%3D
+ -> /communitystandards/?video
+créé un ensemble de Standards de la communauté -> https://lm.facebook.com/l.php?u=https%3A%2F%2Fnewsroom.fb.com%2Fnews%2F2019%2F04%2Finsidefeed-community-standards-development-process%2F&h=AT3TsKOpSZvMcirzICjS6OrNuwkliwRHWzpweHTIFGu97niqbSOk5li2Px-eEGZRNrFZZMSOck46c6sSwkQ9OBfk1gwCG1_DiAJu1KRSZKM7xKncTgXZKu4KvcIwJRjw6abDvFbmuHGPxfrmV-HT
+créer un espace d’expression et de donner une voix aux personnes -> https://lm.facebook.com/l.php?u=https%3A%2F%2Fnewsroom.fb.com%2Fnews%2F2018%2F08%2Fhard-questions-free-expression%2F&h=AT0szNFtyWJPY3CGZ-m_IMbsyK5nA84sravq9Ig4WkB7wnVmSRsm7Mp9x-dIaGVnAxXiC-5P7BqvsZ0TQa6a_kwc6Xs1kWJazj36yqerNUe3H3D1cC5C3hTS_dZl6Gg18TNMHLCIpZw-_GIFJAlt
+bloquer -> https://www.facebook.com/help/168009843260943?ref=ccs
+se désabonner -> https://www.facebook.com/help/276458109035418?ref=ccs
+de masquer -> https://www.facebook.com/help/268028706671439?ref=ccs
+I.Violence et comportement criminel -> /communitystandards/violence_criminal_behavior/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2NjYyNDYwLCJjYWxsc2l0ZV9pZCI6Mzg3OTcxMjgyMzgwNTA4fQ%3D%3D
+II.Sécurité -> /communitystandards/safety/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2NjYyNDYwLCJjYWxsc2l0ZV9pZCI6Mzg3OTcxMjgyMzgwNTA4fQ%3D%3D
+III.Contenu répréhensible -> /communitystandards/objectionable_content/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2NjYyNDYwLCJjYWxsc2l0ZV9pZCI6Mzg3OTcxMjgyMzgwNTA4fQ%3D%3D
+IV.Intégrité et authenticité -> /communitystandards/integrity_authenticity/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2NjYyNDYwLCJjYWxsc2l0ZV9pZCI6Mzg3OTcxMjgyMzgwNTA4fQ%3D%3D
+V.Respect de la propriété intellectuelle -> /communitystandards/respecting_intellectual_property/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2NjYyNDYwLCJjYWxsc2l0ZV9pZCI6Mzg3OTcxMjgyMzgwNTA4fQ%3D%3D
+VI.Demandes relatives aux contenus -> /communitystandards/content_related_requests/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2NjYyNDYwLCJjYWxsc2l0ZV9pZCI6Mzg3OTcxMjgyMzgwNTA4fQ%3D%3D
+Information complémentaire -> /communitystandards/additional_information/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjA2NjYyNDYwLCJjYWxsc2l0ZV9pZCI6Mzg3OTcxMjgyMzgwNTA4fQ%3D%3D
+Signaler un abus -> /help/181495968648557?ref=community_standards

@@ -1,0 +1,41 @@
+ -> /communitystandards/?fb_home
+ÙØ¹Ø§ÙÙØ± Ø§ÙÙØ¬ØªÙØ¹ -> /communitystandards/
+ÙØ±Ø§Ø¡Ø© Ø±Ø³Ø§ÙØ© ÙÙ ÙØ±ÙÙÙØ§ -> /communitystandards/?letter
+Ø¹ÙØ¯Ø© Ø¥ÙÙ Ø§ÙØ£Ø¹ÙÙ -> #cs-header
+Ø¹ÙØ¯Ø© Ø¥ÙÙ Ø§ÙØ£Ø¹ÙÙ -> #cs-header
+Ø¹ÙØ¯Ø© Ø¥ÙÙ Ø§ÙØ£Ø¹ÙÙ -> #cs-header
+Ø¹ÙØ¯Ø© Ø¥ÙÙ Ø§ÙØ£Ø¹ÙÙ -> #cs-header
+ÙÙØ±Ø¬Ù Ø¥Ø¨ÙØ§ØºÙØ§ Ø¨Ù -> https://www.facebook.com/help/www/181495968648557
+ØªØ¹Ø±Ù Ø¹ÙÙ Ø§ÙÙØ²ÙØ¯ -> https://www.facebook.com/help/212722115425932
+Ø£Ø¯ÙØ§Øª -> https://www.facebook.com/help/www/128548343894719
+Ø§ÙØ¥Ø¨ÙØ§Øº Ø¹Ù Ø¥Ø³Ø§Ø¡Ø© -> /help/181495968648557?ref=community_standards
+Ø§ÙØªØ­ÙÙ ÙÙÙØ§ ØªØ±Ø§Ù -> /help/212722115425932?ref=community_standards
+Ø£Ø¯ÙØ§Øª Ø§ÙØ§ØªØµØ§Ù -> /help/128548343894719?ref=community_standards
+ -> #
+Ø¥ÙØ´Ø§Ø¡ Ø­Ø³Ø§Ø¨ ÙÙ ÙÙØ³Ø¨ÙÙ -> /r.php
+ØªØ³Ø¬ÙÙ Ø§ÙØ¯Ø®ÙÙ -> /login/
+Messenger -> https://ar-ar.messenger.com/
+Facebook Lite -> /lite/
+Ø§ÙÙØ§ØªÙ Ø§ÙÙØ­ÙÙÙ -> /mobile/?ref=pf
+Ø¨Ø­Ø« Ø¹Ù Ø£ØµØ¯ÙØ§Ø¡ -> /find-friends?ref=pf
+Ø§ÙØ£Ø´Ø®Ø§Øµ -> /directory/people/
+Ø§ÙØµÙØ­Ø§Øª -> /directory/pages/
+Ø§ÙØ£ÙØ§ÙÙ -> /places/
+Ø§ÙØ£ÙØ¹Ø§Ø¨ -> /games/
+Ø§ÙÙÙØ§ÙØ¹ -> /directory/places/
+Ø§ÙÙØ´Ø§ÙÙØ± -> /directory/celebrities/
+Ø§ÙÙØ¬ÙÙØ¹Ø§Øª -> /directory/groups/
+Moments -> http://l.facebook.com/l.php?u=http%3A%2F%2Fmomentsapp.com%2F&h=ATP3PrGWA98ASzo1Jyk8KKIcazKKNjUP3E3Z2CF4KI6s5ud-KbcTlU257YPsjAYnSbHp_wOIicC8_8zsAio31-NsjAAq-POPsRVoNlBckOU26LS2rvTRQZQ&s=1
+âInstagramâ -> https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2F&h=ATOYzHwE5yyoBTjmkVM32De76VLDpvtyJh_e4k03qWswZwEVmGQ9kdWx1H9bURBruvyN92SA_rvVYzW486nJ0Xoczicrr1Zk_ZQAgP_gQAzj0M97b3b4e-0&s=1
+Ø­ÙÙ ÙÙØ³Ø¨ÙÙ -> /facebook
+Ø¥ÙØ´Ø§Ø¡ Ø¥Ø¹ÙØ§Ù -> /campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+Ø¥ÙØ´Ø§Ø¡ ØµÙØ­Ø© -> /pages/create/?ref_type=sitefooter
+Ø§ÙÙØ·ÙÙØ±ÙÙ -> https://developers.facebook.com/?ref=pf
+Ø§ÙÙØ¸Ø§Ø¦Ù -> /careers/?ref=pf
+Ø§ÙØ®ØµÙØµÙØ© -> /privacy/explanation
+ÙÙÙØ§Øª ØªØ¹Ø±ÙÙ Ø§ÙØ§Ø±ØªØ¨Ø§Ø· -> /policies/cookies/
+Ø§Ø®ØªÙØ§Ø±Ø§Øª Ø§ÙØ¥Ø¹ÙØ§ÙØ§Øª -> https://www.facebook.com/help/568137493302217
+Ø§ÙØ´Ø±ÙØ· -> /policies?ref=pf
+ÙØ³Ø§Ø¹Ø¯Ø© -> /help/?ref=pf
+Ø§ÙØ¥Ø¹Ø¯Ø§Ø¯Ø§Øª -> /settings
+Ø³Ø¬Ù Ø§ÙÙØ´Ø§Ø·Ø§Øª -> /allactivity?privacy_source=activity_log_top_menu

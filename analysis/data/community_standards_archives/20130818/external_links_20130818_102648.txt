@@ -1,0 +1,22 @@
+Facebook logo -> /
+Forgot your password? -> https://www.facebook.com/recover/initiate
+Sign Up -> /r.php?locale=en_US
+Mobile -> https://www.facebook.com/mobile/?ref=pf
+Find Friends -> https://www.facebook.com/find-friends?ref=pf
+Badges -> https://www.facebook.com/badges/?ref=pf
+People -> https://www.facebook.com/directory/people/
+Pages -> https://www.facebook.com/directory/pages/
+Places -> https://www.facebook.com/directory/places/
+Apps -> https://www.facebook.com/appcenter/?ref=pf
+Games -> https://www.facebook.com/appcenter/category/games/?ref=pf
+Music -> https://www.facebook.com/appcenter/category/music/?ref=pf
+About -> https://www.facebook.com/facebook
+Create Ad -> https://www.facebook.com/campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+Create Page -> https://www.facebook.com/pages/create/?ref_type=sitefooter
+Developers -> https://developers.facebook.com/?ref=pf
+Careers -> https://www.facebook.com/careers/?ref=pf
+Privacy -> https://www.facebook.com/privacy/explanation
+Cookies -> https://www.facebook.com/help/cookies/?ref=sitefooter
+Terms -> https://www.facebook.com/policies/?ref=pf
+Help -> https://www.facebook.com/help/?ref=pf
+English (US) -> /ajax/intl/language_dialog.php?uri=https%3A%2F%2Fwww.facebook.com%2Fcommunitystandards

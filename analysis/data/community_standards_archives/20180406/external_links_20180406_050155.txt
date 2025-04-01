@@ -1,0 +1,49 @@
+이 페이지의 섹션 -> #
+접근성 도움말 -> #
+ -> /communitystandards/?fb_home
+커뮤니티 규정 -> /communitystandards/
+이용 방법에 대해 자세히 알아보세요 -> /communitystandards/video/
+Facebook 팀 메시지 보기 -> /communitystandards/?letter
+위로 돌아가기 -> #cs-header
+위로 돌아가기 -> #cs-header
+위로 돌아가기 -> #cs-header
+위로 돌아가기 -> #cs-header
+신고해주세요 -> https://www.facebook.com/help/www/181495968648557
+자세히 알아보세요 -> https://www.facebook.com/help/212722115425932
+도구 -> https://www.facebook.com/help/www/128548343894719
+악용 사례 신고 -> /help/181495968648557?ref=community_standards
+뉴스피드 관리 -> /help/212722115425932?ref=community_standards
+커뮤니케이션 도구 -> /help/128548343894719?ref=community_standards
+ -> #
+가입하기 -> /r.php
+로그인 -> /login/
+Messenger -> https://ko-kr.messenger.com/
+Facebook Lite -> /lite/
+모바일 -> /mobile/?ref=pf
+친구 찾기 -> /find-friends?ref=pf
+사람 -> /directory/people/
+페이지 -> /directory/pages/
+장소 -> /places/
+게임 -> /games/
+위치 -> /directory/places/
+유명인 -> /directory/celebrities/
+Marketplace -> /directory/marketplace/
+그룹 -> /directory/groups/
+레시피 -> /recipes/
+스포츠 -> /sport/
+보기 -> /look/directory/
+Moments -> http://l.facebook.com/l.php?u=http%3A%2F%2Fmomentsapp.com%2F&h=ATOXYwCIlu5_f1pPFQ8UQ56rLwxKSypCH3fEcH4kV2KmCC2oAF74u8cMOnQqMG3jxBjerKiEiOSF5vd_YW_eze8HWsOUl00JxAQA-6tnuFkNqMPxdrjdRnAtabNe2Pke
+Instagram -> https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2F&h=ATOS7S9GKxoY2ylsNpQ9zYLc-w6UViHG4Sa5QTLNT4mSy7kXnmZOzwupF48EZBsagXBb9I60PJSPoXj13sCND2rXEz3Z4bJXk7frjOewtUdRvjEGB-DGeIMqJlaHy5x8
+지역 -> /local/lists/245019872666104/
+회사소개 -> /facebook
+광고 만들기 -> /ad_campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+페이지 만들기 -> /pages/create/?ref_type=sitefooter
+개발자 -> https://developers.facebook.com/?ref=pf
+채용 정보 -> /careers/?ref=pf
+개인정보처리방침 -> /privacy/explanation
+쿠키 -> /policies/cookies/
+AdChoices -> https://www.facebook.com/help/568137493302217
+이용 약관 -> /policies?ref=pf
+고객 센터 -> /help/?ref=pf
+설정 -> /settings
+활동 로그 -> /allactivity?privacy_source=activity_log_top_menu

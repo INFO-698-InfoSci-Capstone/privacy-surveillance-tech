@@ -1,0 +1,47 @@
+Avsnitt på den här sidan -> #
+Tillgänglighetshjälp -> #
+ -> /communitystandards/?fb_home
+Communityregler -> /communitystandards/
+Läs mer om hur det fungerar -> /communitystandards/video/
+Läs ett brev från vårt team -> /communitystandards/?letter
+Överst på sidan -> #cs-header
+Överst på sidan -> #cs-header
+Överst på sidan -> #cs-header
+Överst på sidan -> #cs-header
+anmäler det till oss -> https://www.facebook.com/help/www/181495968648557
+Läs mer -> https://www.facebook.com/help/212722115425932
+verktyg -> https://www.facebook.com/help/www/128548343894719
+Anmäla otillåten användning -> /help/181495968648557?ref=community_standards
+Styr vad som visas -> /help/212722115425932?ref=community_standards
+Kommunikationsverktyg -> /help/128548343894719?ref=community_standards
+ -> #
+Gå med -> /r.php
+Logga in -> /login/
+Messenger -> https://sv-se.messenger.com/
+Facebook Lite -> /lite/
+Mobil -> /mobile/?ref=pf
+Hitta vänner -> /find-friends?ref=pf
+Personer -> /directory/people/
+Sidor -> /directory/pages/
+Platser -> /places/
+Spel -> /games/
+Platser -> /directory/places/
+Kändisar -> /directory/celebrities/
+Marketplace -> /marketplace/?ref=fb_home
+Grupper -> /directory/groups/
+Recept -> /recipes/
+Sport -> /sport/
+Moments -> http://l.facebook.com/l.php?u=http%3A%2F%2Fmomentsapp.com%2F&h=ATPHVJcrOgFdlyKTihl94vn-6RUVUAsvhM6tjrxPsPOdE4UANskyb50Gsn26pTrhqBKGGK6YqV8o3Mewh7TrMNyrDzmDwju4n4fSrszgC3o8-KaBc09prMRb5SlqgA
+Instagram -> https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2F&h=ATPfAMSxFAjfCYG0qQk26dbzYKha7e7iwix5SXCsPDoTgKmUIpFIar5Uq0ibqsngePCdNBdeIIrINh9yPM5CSmjqyifQ0JXnfxtTIq1s0uUGqxFjnc1tXImFw9J_I-fdnQYgyLJDlfw
+Om Facebook -> /facebook
+Skapa annons -> /campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+Skapa sida -> /pages/create/?ref_type=sitefooter
+Utvecklare -> https://developers.facebook.com/?ref=pf
+Jobba hos oss -> /careers/?ref=pf
+Sekretess -> /privacy/explanation
+Cookies -> /policies/cookies/
+Annonsval -> https://www.facebook.com/help/568137493302217
+Användarvillkor -> /policies?ref=pf
+Hjälp -> /help/?ref=pf
+Inställningar -> /settings
+Aktivitetslogg -> /allactivity?privacy_source=activity_log_top_menu

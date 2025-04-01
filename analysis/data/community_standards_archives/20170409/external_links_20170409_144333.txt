@@ -1,0 +1,44 @@
+cambia a nuestro sitio bÃ¡sico -> https://m.facebook.com/
+actualiza tu navegador -> /unsupportedbrowser
+ -> /communitystandards/?fb_home
+Normas comunitarias -> /communitystandards/
+Leer una carta de nuestro equipo -> /communitystandards/?letter
+Volver arriba -> #cs-header
+Volver arriba -> #cs-header
+Volver arriba -> #cs-header
+Volver arriba -> #cs-header
+repÃ³rtalo -> https://www.facebook.com/help/www/181495968648557
+MÃ¡s informaciÃ³n -> https://www.facebook.com/help/212722115425932
+herramientas -> https://www.facebook.com/help/www/128548343894719
+Reportar abuso -> /help/181495968648557?ref=community_standards
+Controlar lo que ves -> /help/212722115425932?ref=community_standards
+Herramientas de comunicaciÃ³n -> /help/128548343894719?ref=community_standards
+ -> #
+Registrarte -> /r.php
+Iniciar sesiÃ³n -> /login/
+Messenger -> https://messenger.com/
+Facebook Lite -> /lite/
+Celular -> /mobile/?ref=pf
+Buscar amigos -> /find-friends?ref=pf
+Personas -> /directory/people/
+PÃ¡ginas -> /directory/pages/
+Lugares -> /places/
+Juegos -> /games/
+Ubicaciones -> /directory/places/
+Famosos -> /directory/celebrities/
+Mercado -> /marketplace/?ref=fb_home
+Grupos -> /directory/groups/
+Moments -> https://l.facebook.com/l.php?u=http%3A%2F%2Fmomentsapp.com%2F&h=ATNF-Fp7hGxERz-96acDN-A6zyaKrpP0VqIPCRfAVTWdxgmc6UbNlHaiM_z5bai8Qxb3NnVKNLJiVn7iyahnFlgpakbHkZTBnLwKspRh7FKOs6svLp2uvgKSnzk&s=1
+Instagram -> https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2F&h=ATP5DyB6PNFjSfpKdslWoFKt8SfaRPR15pifmTQ03UwuuqZT1ZTmwBzkMmD0dsBwjfz-hTr8qpRWxDLWomVgEA7TBau0oawTA_e82-yezlZAKOMGmTg5GEFedcI&s=1
+InformaciÃ³n -> /facebook
+Crear anuncio -> /campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+Crear pÃ¡gina -> /pages/create/?ref_type=sitefooter
+Desarrolladores -> https://developers.facebook.com/?ref=pf
+Empleo -> /careers/?ref=pf
+Privacidad -> /privacy/explanation
+Cookies -> /policies/cookies/
+Opciones de anuncios -> https://www.facebook.com/help/568137493302217
+Condiciones -> /policies?ref=pf
+Ayuda -> /help/?ref=pf
+ConfiguraciÃ³n -> /settings
+Registro de actividad -> /allactivity?privacy_source=activity_log_top_menu

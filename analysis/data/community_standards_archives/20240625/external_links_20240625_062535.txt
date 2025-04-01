@@ -1,0 +1,125 @@
+Transparency Center -> /de-de/
+Richtlinien -> /de-de/policies/
+Facebook-GemeinschaftsstandardsRichtlinien, die festlegen, was in der Facebook-App gestattet ist und was nicht. -> /de-de/policies/community-standards/
+Instagram-GemeinschaftsrichtlinienRichtlinien, die festlegen, was in der Instagram-App gestattet ist und was nicht. -> https://www.facebook.com/help/instagram/477434105621119/
+Meta-WerbestandardsRichtlinien für Werbeinhalte und Business-Assets. -> /de-de/policies/ad-standards/
+Weitere RichtlinienWeitere Richtlinien, die für Meta-Technologien gelten. -> /de-de/policies/other-policies/
+So wird Meta immer besserSo aktualisieren wir unsere Richtlinien, messen wir Ergebnisse, arbeiten wir mit anderen zusammen und leisten vieles mehr. -> /de-de/policies/improving/
+Durchsetzung -> /de-de/enforcement/
+Ermittlung von VerstößenWie Technologie- und Review-Teams uns dabei unterstützen, unzulässige Inhalte und Konten zu erkennen und zu überprüfen. -> /de-de/enforcement/detecting-violations/
+Ergreifen von MaßnahmenUnser dreiteiliger Ansatz für die Durchsetzung von Content-Richtlinien: entfernen, Reichweite verringern und informieren. -> /de-de/enforcement/taking-action/
+Sicherheit -> /de-de/metasecurity/
+Unterbrechung von Bedrohungen
+              Wie wir koordinierte, bösartige Netzwerke entfernen, um die Menschen zu schützen, die unsere Dienste nutzen. -> /de-de/metasecurity/threat-disruptions/
+Sicherheitsbedrohungen
+            Bedrohungen, denen wir weltweit nachgehen und entgegenwirken. -> /de-de/metasecurity/security-threats/
+Bericht zu Bedrohungen durch koordinierte Einflussnahme
+       Sicherheitsbezogene Informationen zu den bösartigen Netzwerken, die wir seit 2017 entfernt haben. -> /de-de/metasecurity/threat-reporting/
+Funktionen -> /de-de/features/
+Unser Ansatz für die Opioidkrise
+                So unterstützen wir Communities angesichts der Opioidkrise. -> /de-de/features/supporting-communities-opioid-epidemic
+Unser Ansatz für WahlenSo tragen wir dazu bei, Einmischung zu verhindern, Menschen zum Wählen zu befähigen und vieles mehr zu ermöglichen. -> /de-de/features/approach-to-elections/
+Unser Ansatz für FalschmeldungenSo arbeiten wir mit unabhängigen Faktenprüfern und anderen zusammen, um Falschmeldungen zu identifizieren und diesbezüglich Maßnahmen zu ergreifen. -> /de-de/policies/community-standards/misinformation
+Unser Ansatz für berichtenswerte InhalteSo prüfen wir Inhalte auf ihren Nachrichtenwert. -> /de-de/features/approach-to-newsworthy-content/
+Unser Ansatz für das Ranking im Facebook-Feed
+              So reduzieren wir problematische Inhalte im News Feed. -> /de-de/features/ranking-and-content/
+Unser Ansatz bei der Erläuterung des Rankings
+                So entwickeln wir KI-Systeme -> /features/explaining-ranking/
+Governance -> /de-de/governance/
+Governance-Innovationen -> /de-de/governance/innovation/
+Das Oversight Board im Überblick -> /de-de/oversight/overview/
+Wie man beim Oversight Board Einspruch einlegt -> /de-de/oversight/appealing-to-oversight-board/
+Fälle des Oversight Boards -> /de-de/oversight/oversight-board-cases/
+Empfehlungen des Oversight Boards -> /de-de/oversight/oversight-board-recommendations/
+Einrichtung des Oversight Board -> /de-de/oversight/creation-of-oversight-board/
+Oversight Board: Weitere häufig gestellte Fragen -> /de-de/oversight/further-asked-questions/
+Metas vierteljährliche Updates zum Oversight Board -> /de-de/oversight/meta-quarterly-updates-on-the-oversight-board/
+Recherchetools -> /de-de/researchtools/
+Content-Bibliothek und Content-Bibliotheks-APIUmfassender Zugriff auf öffentliche Daten von Facebook und Instagram -> /de-de/researchtools/meta-content-library/
+Tools der WerbebibliothekUmfassende, durchsuchbare Datenbank aller Werbeanzeigen, die aktuell in Meta-Technologien geschaltet werden -> /de-de/researchtools/ad-library-tools/
+Andere Recherchetools und Datensätze Weitere Tools für eine ausführliche Suche in Meta-Technologien und -Programmen -> /de-de/researchtools/other-datasets/
+Berichte -> /data/
+Bericht zur Durchsetzung der GemeinschaftsstandardsEin vierteljährlicher Bericht darüber, wie gut uns die Durchsetzung unserer Richtlinien in der Facebook-App und auf Instagram gelingt. -> /data/community-standards-enforcement/
+Geistiges EigentumBericht darüber, wie wir Personen helfen, ihr geistiges Eigentum zu schützen. -> /data/intellectual-property/
+Behördenanfragen nach NutzerdatenBericht über Behördenanfragen nach Nutzerdaten. -> /data/government-data-requests/
+Sperrungen von Inhalten auf der Grundlage des vor Ort geltenden RechtsBericht über Sperrungen von Inhalten, die uns wegen Verstoßes gegen vor Ort geltendes Recht gemeldet werden. -> /data/content-restrictions/
+InternetunterbrechungenBericht über absichtliche Beeinträchtigungen des Internets, die die Fähigkeit der Nutzer einschränken, auf das Internet zuzugreifen. -> /data/internet-disruptions/
+Bericht zu meistgesehenen Inhalten
+              Ein vierteljährlicher Bericht darüber, was sich die Menschen auf Facebook ansehen, darunter Inhalte, die im Quartal am weitesten verbreitet waren. -> /data/widely-viewed-content-report/
+Regulatorische und andere Transparenzberichte
+                Lade aktuelle und frühere regulatorische Berichte für Facebook und Instagram herunter. -> /data/regulatory-transparency-reports/
+Home -> /de-de/
+Richtlinien -> /de-de/policies
+berichtenswert -> https://transparency.fb.com/features/approach-to-newsworthy-content/
+Koordiniertes Zufügen von Schaden und Begünstigung von Verbrechen -> /de-de/policies/community-standards/coordinating-harm-publicizing-crime/
+Gefährliche Organisationen und Personen -> /de-de/policies/community-standards/dangerous-individuals-organizations/
+Betrug und Täuschung -> /de-de/policies/community-standards/fraud-deception/
+Eingeschränkte Waren und Dienstleistungen -> /de-de/policies/community-standards/regulated-goods/
+Gewalt und Anstiftung zu Gewalt -> /de-de/policies/community-standards/violence-incitement/
+Sexuelle Ausbeutung von Erwachsenen -> /de-de/policies/community-standards/sexual-exploitation-adults/
+Mobbing und Belästigung -> /de-de/policies/community-standards/bullying-harassment/
+Sexueller Missbrauch, Missbrauch und Nacktdarstellung von Kindern -> /de-de/policies/community-standards/child-sexual-exploitation-abuse-nudity/
+Menschliche Ausbeutung -> /de-de/policies/community-standards/human-exploitation/
+Datenschutzverstöße -> /de-de/policies/community-standards/privacy-violations-image-privacy-rights/
+Suizid, Selbstverletzung und Essstörungen -> /de-de/policies/community-standards/suicide-self-injury/
+Nacktheit und sexuelle Handlungen von Erwachsenen -> /de-de/policies/community-standards/adult-nudity-sexual-activity/
+Sexuell motivierte Kontaktaufnahme und sexuell explizite Sprache von Erwachsenen -> /de-de/policies/community-standards/sexual-solicitation/
+Hassrede -> /de-de/policies/community-standards/hate-speech/
+Gewaltdarstellende und drastische Inhalte -> /de-de/policies/community-standards/violent-graphic-content/
+Kontointegrität und authentische Identität -> /de-de/policies/community-standards/account-integrity-and-authentic-identity/
+Cybersicherheit -> /de-de/policies/community-standards/cybersecurity/
+Irreführendes Verhalten -> /de-de/policies/community-standards/inauthentic-behavior/
+Gedenkzustand -> /de-de/policies/community-standards/memorialization/
+Fehlinformationen -> /de-de/policies/community-standards/misinformation/
+Spam -> /de-de/policies/community-standards/spam/
+Geistiges Eigentum -> /de-de/policies/community-standards/intellectual-property/
+Zusätzlicher Schutz von Minderjährigen -> /de-de/policies/community-standards/additional-protection-minors/
+Nutzeranfragen -> /de-de/policies/community-standards/user-requests/
+WEITER -> /de-de/policies/other-policies
+Weitere Richtlinien -> /de-de/policies/other-policies
+Transparency Center -> /de-de/
+RICHTLINIEN -> /de-de/policies/
+Facebook-Gemeinschaftsstandards -> /de-de/policies/community-standards/
+Instagram-Gemeinschaftsrichtlinien -> https://www.facebook.com/help/instagram/477434105621119/
+Weitere Richtlinien -> /de-de/policies/other-policies/
+So wird Meta immer besser -> /de-de/policies/improving/
+DURCHSETZUNG -> /de-de/enforcement/
+Ermittlung von Verstößen -> /de-de/enforcement/detecting-violations/
+Ergreifen von Maßnahmen -> /de-de/enforcement/taking-action/
+SICHERHEIT -> /de-de/metasecurity/
+Unterbrechung von Bedrohungen -> /de-de/metasecurity/threat-disruptions/
+Sicherheitsbedrohungen -> /de-de/metasecurity/security-threats
+Bericht zu Bedrohungen durch koordinierte Einflussnahme -> /de-de/metasecurity/threat-reporting
+FUNKTIONEN -> /de-de/features/
+Unser Ansatz für Wahlen -> /de-de/features/approach-to-elections/
+Unser Ansatz für Falschmeldungen -> /de-de/policies/community-standards/misinformation
+Unser Ansatz für berichtenswerte Inhalte -> /de-de/features/approach-to-newsworthy-content/
+Unser Ansatz für das Ranking im Facebook-Feed -> /de-de/features/ranking-and-content/
+Unser Ansatz bei der Erläuterung des Rankings -> /de-de/features/explaining-ranking/
+GOVERNANCE -> /de-de/governance/
+Governance-Innovationen -> /de-de/governance/innovation/
+Das Oversight Board im Überblick -> /de-de/oversight/overview/
+Wie man beim Oversight Board Einspruch einlegt -> /de-de/oversight/appealing-to-oversight-board/
+Fälle des Oversight Boards -> /de-de/oversight/oversight-board-cases/
+Empfehlungen des Oversight Boards -> /de-de/oversight/oversight-board-recommendations/
+Einrichtung des Oversight Board -> /de-de/oversight/creation-of-oversight-board/
+Oversight Board: Weitere häufig gestellte Fragen -> /de-de/oversight/further-asked-questions/
+Metas vierteljährliche Updates zum Oversight Board -> /de-de/oversight/meta-quarterly-updates-on-the-oversight-board/
+BERICHTE -> /data/
+Bericht zur Durchsetzung der Gemeinschaftsstandards -> /data/community-standards-enforcement/
+Geistiges Eigentum -> /data/intellectual-property/
+Behördenanfragen nach Nutzerdaten -> /data/government-data-requests/
+Sperrungen von Inhalten auf der Grundlage des vor Ort geltenden Rechts -> /data/content-restrictions/
+Internetunterbrechungen -> /data/internet-disruptions/
+Bericht zu häufig angesehenen Inhalten -> /data/widely-viewed-content-report/
+Regulatorische und andere Transparenzberichte -> /data/regulatory-transparency-reports/
+Werbebibliothek -> https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=US&media_type=all
+CrowdTangle -> https://www.crowdtangle.com/
+Facebook Open Research and Transparency -> https://fort.fb.com/
+RECHERCHETOOLS -> /de-de/researchtools/
+Content-Bibliothek und Content-Bibliotheks-API -> /de-de/researchtools/meta-content-library
+Tools der Werbebibliothek -> /de-de/researchtools/ad-library-tools
+Andere Recherchetools und Datensätze -> /de-de/researchtools/other-datasets
+Datenschutzrichtlinie -> https://www.facebook.com/about/privacy/
+Nutzungsbedingungen -> https://www.facebook.com/legal/terms/
+Cookies -> https://www.facebook.com/policies/cookies/

@@ -1,0 +1,24 @@
+utilisez notre site pour mobile -> https://m.facebook.com/
+Logo Facebook -> /
+Mot de passe oublié ? -> https://www.facebook.com/recover/initiate
+Inscription -> /r.php?locale=fr_FR
+Page -> /pages/create/
+Conditions applicables à nos Pages -> /page_guidelines.php
+Mobile -> /mobile/?ref=pf
+Retrouver des amis -> /find-friends?ref=pf
+Badges -> /badges/?ref=pf
+Personnes -> /directory/people/
+Pages -> /directory/pages/
+Lieux -> /places/
+Jeux -> /games/
+Emplacements -> /directory/places/
+À propos -> /facebook
+Créer une publicité -> /campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+Créer une Page -> /pages/create/?ref_type=sitefooter
+Développeurs -> https://developers.facebook.com/?ref=pf
+Emplois -> /careers/?ref=pf
+Confidentialité -> /privacy/explanation
+Cookies -> /help/cookies/?ref=sitefooter
+Conditions d’utilisation -> /policies/?ref=pf
+Aide -> /help/?ref=pf
+Français (France) -> #

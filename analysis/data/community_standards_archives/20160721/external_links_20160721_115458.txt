@@ -1,0 +1,40 @@
+ -> /communitystandards/?fb_home
+Standardele comunitÄÅ£ii -> /communitystandards/
+CiteÅte o scrisoare din partea echipei noastre -> /communitystandards/?letter
+Sus -> #cs-header
+Sus -> #cs-header
+Sus -> #cs-header
+Sus -> #cs-header
+Raportarea unui abuz -> /help/181495968648557?ref=community_standards
+StabileÅte ceea ce vezi -> /help/212722115425932?ref=community_standards
+Instrumente de comunicare -> /help/128548343894719?ref=community_standards
+te rugÄm sÄ ni-l raportezi -> https://www.facebook.com/help/www/181495968648557
+AflÄ mai multe -> https://www.facebook.com/help/212722115425932
+instrumente -> https://www.facebook.com/help/www/128548343894719
+ -> #
+Ãnscrie-te -> /r.php
+ConecteazÄ-te -> /login/
+Messenger -> https://ro-ro.messenger.com/
+Facebook Lite -> /lite/
+Mobil -> /mobile/?ref=pf
+GÄseÅte prieteni -> /find-friends?ref=pf
+Ecusoane -> /badges/?ref=pf
+Persoane -> /directory/people/
+Pagini -> /directory/pages/
+Locuri -> /places/
+Jocuri -> /games/
+LocaÅ£ii -> /directory/places/
+CelebritÄÅ£i -> /directory/celebrities/
+Grupuri -> /directory/groups/
+Despre -> /facebook
+CreeazÄ o reclamÄ -> /campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+CreeazÄ o PaginÄ -> /pages/create/?ref_type=sitefooter
+Dezvoltatori -> https://developers.facebook.com/?ref=pf
+Cariere -> /careers/?ref=pf
+ConfidenÅ£ialitate -> /privacy/explanation
+Module cookie -> /help/cookies/?ref=sitefooter
+OpÅ£iuni -> https://www.facebook.com/help/568137493302217
+CondiÅ£ii de utilizare -> /policies/?ref=pf
+Ajutor -> /help/?ref=pf
+SetÄri -> /settings
+Jurnal de activitÄÅ£i -> /allactivity?privacy_source=activity_log_top_menu

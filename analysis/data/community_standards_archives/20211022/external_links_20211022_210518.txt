@@ -1,0 +1,79 @@
+Transparency Center -> /
+Policies -> /policies/
+Facebook Community StandardsPolicies that outline what is and isn't allowed on the Facebook app. -> /policies/community-standards/
+Other policiesOther policies that apply to Facebook technologies. -> /policies/other-policies/
+How Facebook improvesHow we update our policies, measure results, work with others, and more. -> /policies/improving/
+Enforcement -> /enforcement/
+Detecting violationsHow technology and review teams help us detect and review violating content and accounts. -> /enforcement/detecting-violations/
+Taking actionOur three-part approach to content enforcement: remove, reduce and inform. -> /enforcement/taking-action/
+Features -> /features/
+Our approach to electionsHow we help prevent interference, empower people to vote and more. -> /features/approach-to-elections/
+Our approach to misinformationHow we work with independent fact-checkers, and more, to identify and take action on misinformation. -> /features/approach-to-misinformation/
+Our approach to newsworthy contentHow we assess content for newsworthiness. -> /features/approach-to-newsworthy-content/
+Our approach to ranking
+              How we reduce problematic content in News Feed. -> /features/ranking-and-content/
+Oversight -> /oversight/
+Data -> /data/
+Community Standards Enforcement ReportQuarterly report on how well we're doing at enforcing our policies on the Facebook app and Instagram. -> /data/community-standards-enforcement/
+Intellectual PropertyReport on how well we're helping people protect their intellectual property. -> /data/intellectual-property/
+Government Requests for User DataReport on government request for people's data. -> /data/government-data-requests/
+Content Restrictions Based on Local LawReport on when we restrict content that's reported to us as violating local law. -> /data/content-restrictions/
+Internet DisruptionsReport on intentional internet restrictions that limit people's ability to access the internet. -> /data/internet-disruptions/
+Widely Viewed Content Report
+              Quarterly report on what people see on Facebook, including the content that receives the widest distribution during the quarter. -> /data/widely-viewed-content-report/
+Home -> /
+Policies -> /policies
+Violence and Incitement -> /policies/community-standards/violence-incitement/
+Dangerous Individuals and Organizations -> /policies/community-standards/dangerous-individuals-organizations/
+Coordinating Harm and Publicizing Crime -> /policies/community-standards/coordinating-harm-publicizing-crime/
+Regulated Goods -> /policies/community-standards/regulated-goods/
+Fraud and Deception -> /policies/community-standards/fraud-deception/
+Suicide and Self-Injury -> /policies/community-standards/suicide-self-injury/
+Child Sexual Exploitation, Abuse and Nudity -> /policies/community-standards/child-sexual-exploitation-abuse-nudity/
+Sexual Exploitation of Adults -> /policies/community-standards/sexual-exploitation-adults/
+Bullying and Harassment -> /policies/community-standards/bullying-harassment/
+Human Exploitation -> /policies/community-standards/human-exploitation/
+Privacy Violations and Image Privacy Rights -> /policies/community-standards/privacy-violations-image-privacy-rights/
+Hate Speech -> /policies/community-standards/hate-speech/
+Violent and Graphic Content -> /policies/community-standards/violent-graphic-content/
+Adult Nudity and Sexual Activity -> /policies/community-standards/adult-nudity-sexual-activity/
+Sexual Solicitation -> /policies/community-standards/sexual-solicitation/
+Account Integrity and Authentic Identity -> /policies/community-standards/account-integrity-and-authentic-identity/
+Spam -> /policies/community-standards/spam/
+Cybersecurity -> /policies/community-standards/cybersecurity/
+Inauthentic Behavior -> /policies/community-standards/inauthentic-behavior/
+False News -> /policies/community-standards/false-news/
+Manipulated Media -> /policies/community-standards/manipulated-media/
+Memorialization -> /policies/community-standards/memorialization/
+Intellectual Property -> /policies/community-standards/intellectual-property/
+User Requests -> /policies/community-standards/user-requests/
+Additional Protection of Minors -> /policies/community-standards/additional-protection-minors/
+NEXT -> /policies/other-policies
+Other policies -> /policies/other-policies
+Transparency Center -> /
+POLICIES -> /policies/
+Facebook Community Standards -> /policies/community-standards/
+Other policies -> /policies/other-policies/
+How Facebook improves -> /policies/improving/
+ENFORCEMENT -> /enforcement/
+Detecting violations -> /enforcement/detecting-violations/
+Taking action -> /enforcement/taking-action/
+FEATURES -> /features/
+Our approach to elections -> /features/approach-to-elections/
+Our approach to misinformation -> /features/approach-to-misinformation/
+Our approach to newsworthy content -> /features/approach-to-newsworthy-content/
+Our approach to ranking -> /features/ranking-and-content/
+OVERSIGHT -> /oversight/
+DATA -> /data/
+Community Standards Enforcement Report -> /data/community-standards-enforcement/
+Intellectual Property -> /data/intellectual-property/
+Government Requests for User Data -> /data/government-data-requests/
+Content Restrictions Based on Local Law -> /data/content-restrictions/
+Internet Disruptions -> /data/internet-disruptions/
+Widely Viewed Content Report -> /data/widely-viewed-content-report/
+Ad Library -> https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=US&media_type=all
+Crowdtangle -> https://www.crowdtangle.com/
+Facebook Open Research and Transparency -> https://fort.fb.com/
+Data Policy -> https://www.facebook.com/about/privacy/
+Terms of Service -> https://www.facebook.com/legal/terms/
+Cookies -> https://www.facebook.com/policies/cookies/

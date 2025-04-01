@@ -1,0 +1,40 @@
+ -> /communitystandards/?fb_home
+ç¤¾åºå®å -> /communitystandards/
+æ¥ç Facebook å¢éæ¥ä¿¡ -> /communitystandards/?letter
+è¿åé¡¶ç«¯ -> #cs-header
+è¿åé¡¶ç«¯ -> #cs-header
+è¿åé¡¶ç«¯ -> #cs-header
+è¿åé¡¶ç«¯ -> #cs-header
+ä¸¾æ¥è¿è§åå®¹ -> /help/181495968648557?ref=community_standards
+æ§å¶çå°çåå®¹ -> /help/212722115425932?ref=community_standards
+äº¤æµå·¥å· -> /help/128548343894719?ref=community_standards
+è¯·åæä»¬ä¸¾æ¥ -> https://www.facebook.com/help/www/181495968648557
+è¯¦ç»äºè§£ -> https://www.facebook.com/help/212722115425932
+å·¥å· -> https://www.facebook.com/help/www/128548343894719
+... -> #
+æ³¨å -> /r.php
+ç»å½ -> /login/
+Messenger -> https://zh-cn.messenger.com/
+Facebook Lite -> /lite/
+ææº -> /mobile/?ref=pf
+æç´¢å¥½å -> /find-friends?ref=pf
+å¾½ç« -> /badges/?ref=pf
+ç¨æ· -> /directory/people/
+å¬å±ä¸»é¡µ -> /directory/pages/
+å°ç¹ -> /places/
+æ¸¸æ -> /games/
+ä½ç½® -> /directory/places/
+åäºº -> /directory/celebrities/
+Groups -> /directory/groups/
+å¬å¸ç®ä» -> /facebook
+åå»ºå¹¿å -> /campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+åå»ºä¸»é¡µ -> /pages/create/?ref_type=sitefooter
+å¼åè -> https://developers.facebook.com/?ref=pf
+æèä¿¡æ¯ -> /careers/?ref=pf
+éç§ææ¿ç­ -> /privacy/explanation
+Cookie -> /help/cookies/?ref=sitefooter
+å¹¿åéé¡¹ -> https://www.facebook.com/help/568137493302217
+æ¡æ¬¾ -> /policies/?ref=pf
+å¸®å©ä¸­å¿ -> /help/?ref=pf
+è®¾ç½® -> /settings
+æ´»å¨æ¥å¿ -> /allactivity?privacy_source=activity_log_top_menu

@@ -1,0 +1,16 @@
+Facebook logo -> /
+Sign Up -> /r.php?locale=en_US&v=0
+English (US) -> /ajax/intl/language_dialog.php?uri=http%3A%2F%2Fwww.facebook.com%2Fcommunitystandards
+Mobile -> http://www.facebook.com/mobile/?ref=pf
+Find Friends -> http://www.facebook.com/find-friends?ref=pf
+Badges -> http://www.facebook.com/badges/?ref=pf
+People -> http://www.facebook.com/directory/people/
+Pages -> http://www.facebook.com/directory/pages/
+About -> http://www.facebook.com/facebook
+Create an Ad -> http://www.facebook.com/campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto&extra_2=AdvertisingLink%3ACREATE_AN_AD
+Create a Page -> http://www.facebook.com/pages/create.php?ref_type=sitefooter
+Developers -> http://developers.facebook.com/?ref=pf
+Careers -> http://www.facebook.com/careers/?ref=pf
+Privacy -> http://www.facebook.com/privacy/explanation
+Terms -> http://www.facebook.com/policies/?ref=pf
+Help -> http://www.facebook.com/help/?ref=pf

@@ -1,0 +1,26 @@
+ -> /communitystandards/?fb_home
+Community Standards -> /communitystandards/
+Read a letter from our team -> /communitystandards/?letter
+Back to top -> #cs-header
+Back to top -> #cs-header
+Back to top -> #cs-header
+Back to top -> #cs-header
+Reporting Abuse -> /help/181495968648557?ref=community_standards
+Controlling What You See -> /help/212722115425932?ref=community_standards
+Communication Tools -> /help/128548343894719?ref=community_standards
+please report it to us -> https://www.facebook.com/help/www/181495968648557
+Learn more -> https://www.facebook.com/help/212722115425932
+tools -> https://www.facebook.com/help/www/128548343894719
+About -> /facebook
+Create Ad -> /campaign/landing.php?placement=pf&campaign_id=466780656697650&extra_1=auto
+Create Page -> /pages/create/?ref_type=sitefooter
+Developers -> https://developers.facebook.com/?ref=pf
+Careers -> /careers/?ref=pf
+Privacy -> /privacy/explanation
+Cookies -> /help/cookies/?ref=sitefooter
+Ad Choices -> https://www.facebook.com/help/568137493302217
+Terms -> /policies/?ref=pf
+Help -> /help/?ref=pf
+Settings -> /settings
+Activity Log -> https://www.facebook.com/melissa.mead.146/allactivity?privacy_source=activity_log_top_menu
+English (US) -> #

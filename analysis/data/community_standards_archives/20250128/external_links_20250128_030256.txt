@@ -1,0 +1,129 @@
+Transparency Center -> /
+Policies -> /policies/
+Community StandardsPolicies that outline what is and isn't allowed on our apps. -> /policies/community-standards/
+Meta Advertising StandardsPolicies for ad content and business assets. -> /policies/ad-standards/
+Other policiesOther policies that apply to Meta technologies. -> /policies/other-policies/
+How Meta improvesHow we update our policies, measure results, work with others, and more. -> /policies/improving/
+Age-Appropriate ContentExplore how we help teens have safe, positive experiences on Facebook and Instagram. -> /policies/age-appropriate-content/
+Enforcement -> /enforcement/
+Detecting violationsHow technology and review teams help us detect and review violating content and accounts. -> /enforcement/detecting-violations/
+Taking actionOur three-part approach to content enforcement: remove, reduce and inform. -> /enforcement/taking-action/
+Security -> /metasecurity/
+Threat disruptions
+              How we take down coordinated adversarial networks to protect people using our services -> /metasecurity/threat-disruptions/
+Security threats
+            Challenges we investigate and counter around the globe -> /metasecurity/security-threats/
+Threat reporting
+       Security research into the adversarial networks we’ve taken down since 2017 -> /metasecurity/threat-reporting/
+Features -> /features/
+Our Approach To Dangerous Organizations and Individuals
+                How we approach dangerous organizations and individuals. -> /features/dangerous-orgs-and-individuals
+Our approach to the opioid epidemic
+                How we support communities in the face of the opioid epidemic. -> /features/supporting-communities-opioid-epidemic
+Our approach to electionsHow we help prevent interference, empower people to vote and more. -> /features/approach-to-elections/
+Our approach to misinformationHow we work with independent fact-checkers, and more, to identify and take action on misinformation. -> /policies/community-standards/misinformation
+Our approach to newsworthy contentHow we assess content for newsworthiness. -> /features/approach-to-newsworthy-content/
+Our approach to Facebook Feed ranking
+              How we reduce problematic content in News Feed. -> /features/ranking-and-content/
+Our approach to explaining ranking
+                How we build AI systems. -> /features/explaining-ranking/
+Governance -> /governance/
+Governance innovation -> /governance/innovation/
+Oversight Board overview -> /oversight/overview/
+How to appeal to the Oversight Board -> /oversight/appealing-to-oversight-board/
+Oversight Board cases -> /oversight/oversight-board-cases/
+Oversight Board recommendations -> /oversight/oversight-board-recommendations/
+Creating the Oversight Board -> /oversight/creation-of-oversight-board/
+Oversight Board: Further asked questions -> /oversight/further-asked-questions/
+Meta’s Bi-Annual Updates on the Oversight Board -> /oversight/meta-biannual-updates-on-the-oversight-board/
+Research tools -> /researchtools/
+Content Library and Content Library APIComprehensive access to public data from Facebook and Instagram -> /researchtools/meta-content-library/
+Ad Library toolsComprehensive and searchable database of all ads currently running across Meta technologies -> /researchtools/ad-library-tools/
+Other research tools and datasets Additional tools for in-depth research on Meta technologies and programs -> /researchtools/other-datasets/
+Reports -> /data/
+Community Standards Enforcement ReportQuarterly report on how well we're doing at enforcing our policies on the Facebook app and Instagram. -> /data/community-standards-enforcement/
+Intellectual PropertyReport on how well we're helping people protect their intellectual property. -> /data/intellectual-property/
+Government Requests for User DataReport on government request for people's data. -> /data/government-data-requests/
+Content Restrictions Based on Local LawReport on when we restrict content that's reported to us as violating local law. -> /data/content-restrictions/
+Internet DisruptionsReport on intentional internet restrictions that limit people's ability to access the internet. -> /data/internet-disruptions/
+Widely Viewed Content Report
+              Quarterly report on what people see on Facebook, including the content that receives the widest distribution during the quarter. -> /data/widely-viewed-content-report/
+Regulatory and Other Transparency Reports
+                Download current and past regulatory reports for Facebook and Instagram. -> /data/regulatory-transparency-reports/
+Home -> /
+Policies -> /policies
+newsworthy -> https://transparency.meta.com/features/approach-to-newsworthy-content
+Coordinating Harm and Promoting Crime -> /policies/community-standards/coordinating-harm-publicizing-crime/
+Dangerous Organizations and Individuals -> /policies/community-standards/dangerous-individuals-organizations/
+Fraud, Scams, and Deceptive Practices -> /policies/community-standards/fraud-scams
+Restricted Goods and Services -> /policies/community-standards/regulated-goods/
+Violence and Incitement -> /policies/community-standards/violence-incitement/
+Adult Sexual Exploitation -> /policies/community-standards/sexual-exploitation-adults/
+Bullying and Harassment -> /policies/community-standards/bullying-harassment/
+Child Sexual Exploitation, Abuse, and Nudity -> /policies/community-standards/child-sexual-exploitation-abuse-nudity/
+Human Exploitation -> /policies/community-standards/human-exploitation/
+Suicide, Self-Injury, and Eating Disorders -> /policies/community-standards/suicide-self-injury/
+Adult Nudity and Sexual Activity -> /policies/community-standards/adult-nudity-sexual-activity/
+Adult Sexual Solicitation and Sexually Explicit Language -> /policies/community-standards/sexual-solicitation/
+Hateful Conduct -> /policies/community-standards/hate-speech/
+Privacy Violations -> /policies/community-standards/privacy-violations-image-privacy-rights/
+Violent and Graphic Content -> /policies/community-standards/violent-graphic-content/
+Account Integrity -> /policies/community-standards/account-integrity
+Authentic Identity Representation -> /policies/community-standards/authentic-identity-representation
+Cybersecurity -> /policies/community-standards/cybersecurity/
+Inauthentic Behavior -> /policies/community-standards/inauthentic-behavior/
+Memorialization -> /policies/community-standards/memorialization/
+Misinformation -> /policies/community-standards/misinformation/
+Spam -> /policies/community-standards/spam/
+Third-Party Intellectual Property Infringement -> /policies/community-standards/intellectual-property/
+Using Meta Intellectual Property and Licenses -> /policies/community-standards/meta-intellectual-property
+Additional Protection of Minors -> /policies/community-standards/additional-protection-minors/
+Locally Illegal Content, Products, or Services -> /policies/community-standards/locally-illegal-products-services
+User Requests -> /policies/community-standards/user-requests/
+NEXT -> /policies/other-policies
+Other policies -> /policies/other-policies
+Transparency Center -> /
+POLICIES -> /policies/
+Community Standards -> /policies/community-standards/
+Meta Advertising Standards -> /policies/ad-standards/
+Other policies -> /policies/other-policies/
+How Meta improves -> /policies/improving/
+Age-Appropriate Content -> /policies/age-appropriate-content/
+ENFORCEMENT -> /enforcement/
+Detecting violations -> /enforcement/detecting-violations/
+Taking action -> /enforcement/taking-action/
+SECURITY -> /metasecurity/
+Threat disruptions -> /metasecurity/threat-disruptions/
+Security threats -> /metasecurity/security-threats
+Threat reporting -> /metasecurity/threat-reporting
+FEATURES -> /features/
+Our Approach To Dangerous Organizations and Individuals -> /features/dangerous-orgs-and-individuals
+Our approach to elections -> /features/approach-to-elections/
+Our approach to misinformation -> /policies/community-standards/misinformation
+Our approach to newsworthy content -> /features/approach-to-newsworthy-content/
+Our approach to Facebook Feed ranking -> /features/ranking-and-content/
+Our approach to explaining ranking -> /features/explaining-ranking/
+GOVERNANCE -> /governance/
+Governance innovation -> /governance/innovation/
+Oversight Board overview -> /oversight/overview/
+How to appeal to the Oversight Board -> /oversight/appealing-to-oversight-board/
+Oversight Board cases -> /oversight/oversight-board-cases/
+Oversight Board recommendations -> /oversight/oversight-board-recommendations/
+Creating the Oversight Board -> /oversight/creation-of-oversight-board/
+Oversight Board: Further asked questions -> /oversight/further-asked-questions/
+Meta’s Bi-Annual Updates on the Oversight Board -> /oversight/meta-biannual-updates-on-the-oversight-board/
+REPORTS -> /data/
+Community Standards Enforcement Report -> /data/community-standards-enforcement/
+Intellectual Property -> /data/intellectual-property/
+Government Requests for User Data -> /data/government-data-requests/
+Content Restrictions Based on Local Law -> /data/content-restrictions/
+Internet Disruptions -> /data/internet-disruptions/
+Widely Viewed Content Report -> /data/widely-viewed-content-report/
+Regulatory and Other Transparency Reports -> /data/regulatory-transparency-reports/
+RESEARCH TOOLS -> /researchtools/
+Content Library and Content Library API -> /researchtools/meta-content-library
+Ad Library Tools -> /researchtools/ad-library-tools
+Other research tools and datasets -> /researchtools/other-datasets
+Privacy Policy -> https://www.facebook.com/about/privacy/
+Terms of Service -> https://www.facebook.com/legal/terms/
+Cookies -> https://www.facebook.com/policies/cookies/

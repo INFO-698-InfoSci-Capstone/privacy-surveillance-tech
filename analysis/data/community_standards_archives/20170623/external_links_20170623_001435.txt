@@ -1,0 +1,44 @@
+ -> /communitystandards/?fb_home
+Gemeinschaftsstandards -> /communitystandards/
+ -> /communitystandards/video/
+Brief von unserem Team lesen -> /communitystandards/?letter
+Zurück nach oben -> #cs-header
+Zurück nach oben -> #cs-header
+Zurück nach oben -> #cs-header
+Zurück nach oben -> #cs-header
+melde uns das bitte -> https://www.facebook.com/help/www/181495968648557
+Mehr dazu -> https://www.facebook.com/help/212722115425932
+Funktionen -> https://www.facebook.com/help/www/128548343894719
+Missbrauch melden -> /help/181495968648557?ref=community_standards
+Dir angezeigte Inhalte kontrollieren -> /help/212722115425932?ref=community_standards
+Kommunikations-Tools -> /help/128548343894719?ref=community_standards
+ -> #
+Registrieren -> /r.php
+Anmelden -> /login/
+Handy -> /mobile/?ref=pf
+Freunde finden -> /find-friends?ref=pf
+Seiten -> /directory/pages/
+Hilfe -> /help/?ref=pf
+Messenger -> https://de-de.messenger.com/
+Facebook Lite -> /lite/
+Nutzer -> /directory/people/
+Orte -> /places/
+Spiele -> /games/
+Standorte -> /directory/places/
+Stars -> /directory/celebrities/
+Marktplatz -> /marketplace/?ref=fb_home
+Gruppen -> /directory/groups/
+Rezepte -> /recipes/
+Moments -> http://l.facebook.com/l.php?u=http%3A%2F%2Fmomentsapp.com%2F&h=ATNoLElGCiMPDoqcA1O0oRS0RwQR8L1VdiJG9qucMPZ9CESxA0BCoOsL0FiSTnZCtoNF8xqk5-Nt4Qq_zO4gIRWlXDtO6y4UdGF0OdDne0REsQZXLBfDBTRovMBk&s=1
+Instagram -> https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2F&h=ATMlOhDTkVvTMJKILI-tKddD23LPKonGNNnQLH4EzrBl8Py_l-WNLQ2CZuRaQWOG8iOAg4-FD3J2odPr94V_Pixfjkvq1ZkAIoZUSCMj2HXe4b6UJKenFKPN9CHp&s=1
+Über uns -> /facebook
+Werbeanzeige erstellen -> /campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+Seite erstellen -> /pages/create/?ref_type=sitefooter
+Entwickler -> https://developers.facebook.com/?ref=pf
+Karriere -> /careers/?ref=pf
+Datenschutz -> /privacy/explanation
+Cookies -> /policies/cookies/
+Datenschutzinfo -> https://www.facebook.com/help/568137493302217
+Impressum/Nutzungsbedingungen -> /legal/terms?ref=pf
+Einstellungen -> /settings
+Aktivitätenprotokoll -> /allactivity?privacy_source=activity_log_top_menu

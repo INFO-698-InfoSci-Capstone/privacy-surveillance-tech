@@ -1,0 +1,47 @@
+Section de cette page -> #
+Aide accessibilité -> #
+ -> /communitystandards/?fb_home
+Standards de la communauté -> /communitystandards/
+Apprenez-en plus sur son fonctionnement -> /communitystandards/video/
+Message de notre équipe -> /communitystandards/?letter
+Revenir en haut -> #cs-header
+Revenir en haut -> #cs-header
+Revenir en haut -> #cs-header
+Revenir en haut -> #cs-header
+n’hésitez pas à nous le signaler -> https://www.facebook.com/help/www/181495968648557
+En savoir plus -> https://www.facebook.com/help/212722115425932
+outils -> https://www.facebook.com/help/www/128548343894719
+Signaler un abus -> /help/181495968648557?ref=community_standards
+Contrôler ce que je vois -> /help/212722115425932?ref=community_standards
+Outils de communication -> /help/128548343894719?ref=community_standards
+ -> #
+Inscription -> /r.php
+Connexion -> /login/
+Messenger -> https://fr-fr.messenger.com/
+Facebook Lite -> /lite/
+Mobile -> /mobile/?ref=pf
+Retrouver des amis -> /find-friends?ref=pf
+Personnes -> /directory/people/
+Pages -> /directory/pages/
+Lieux -> /places/
+Jeux -> /games/
+Lieux -> /directory/places/
+Célébrités -> /directory/celebrities/
+Marketplace -> /marketplace/?ref=fb_home
+Groupes -> /directory/groups/
+Recettes -> /recipes/
+Sports -> /sport/
+Moments -> http://l.facebook.com/l.php?u=http%3A%2F%2Fmomentsapp.com%2F&h=ATPzII4msSEy_N0RfbJ-nGAosgsicuncDuUota2nj1588-vajoOejEbQHIzEKHzj8Uv_2fExgtxpTykx9AsXpcYkzNFWSmzvZymM8jgDIkV98dUazT1K3FqJxkMGxQ
+Instagram -> https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2F&h=ATPs6oUqosJfpsC3lLCMP_CC721i62P-gSobEqbdB9-1ru-UercBetkZc4GLrX6_9GoTwVRitWTf9gkX_Q_fWhxeVDh5E3DpsCOSJgJTVqfoTKqxn1hzhOmCf3Z3mw
+À propos -> /facebook
+Créer une publicité -> /campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+Créer une Page -> /pages/create/?ref_type=sitefooter
+Développeurs -> https://developers.facebook.com/?ref=pf
+Emplois -> /careers/?ref=pf
+Confidentialité -> /privacy/explanation
+Cookies -> /policies/cookies/
+Choisir sa pub -> https://www.facebook.com/help/568137493302217
+Conditions d’utilisation -> /policies?ref=pf
+Aide -> /help/?ref=pf
+Paramètres -> /settings
+Historique personnel -> /allactivity?privacy_source=activity_log_top_menu

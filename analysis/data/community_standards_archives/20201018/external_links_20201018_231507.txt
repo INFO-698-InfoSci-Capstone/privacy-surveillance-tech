@@ -1,0 +1,15 @@
+ -> /communitystandards/
+ -> /communitystandards/?video
+developed a set of Community Standards -> https://lm.facebook.com/l.php?u=https%3A%2F%2Fnewsroom.fb.com%2Fnews%2F2019%2F04%2Finsidefeed-community-standards-development-process%2F&h=AT0RBneD8nIAEvPRjuZjQdlYBEjzNBFCRGRNZvLgqr1z8Q0A3DFhik7nEGxKtoGWmBJpZRSsHujWSS8Vn53EsQVCsJpIm9x1Rgu3Uhpu-oKtK-91GVratlP44o0lh0P_C3vlIhOx_CSHaHiApLFk
+create a place for expression and give people a voice -> https://lm.facebook.com/l.php?u=https%3A%2F%2Fnewsroom.fb.com%2Fnews%2F2018%2F08%2Fhard-questions-free-expression%2F&h=AT0QYzmEv3V6-7NsykfktIAYdU4fHYmxs2hLcetJZ7rysroy3YDhi0AcrKl6Qm7FguOvl7PJUYIVuuWu9Y5htFIQcrLZ7H_TXuH60ko9Vk0FuQdT5RWI3sB-nlAJxCi2X2v8DU0xeR2fdsLOr8_x
+block -> https://www.facebook.com/help/168009843260943?ref=ccs
+unfollow -> https://www.facebook.com/help/276458109035418?ref=ccs
+hide -> https://www.facebook.com/help/268028706671439?ref=ccs
+I.Violence and Criminal Behavior -> /communitystandards/violence_criminal_behavior/
+II.Safety -> /communitystandards/safety/
+III.Objectionable Content -> /communitystandards/objectionable_content/
+IV.Integrity and Authenticity -> /communitystandards/integrity_authenticity/
+V.Respecting Intellectual Property -> /communitystandards/respecting_intellectual_property/
+VI.Content-Related Requests -> /communitystandards/content_related_requests/
+Additional Information -> /communitystandards/additional_information/
+Report Abuse -> /help/181495968648557?ref=community_standards

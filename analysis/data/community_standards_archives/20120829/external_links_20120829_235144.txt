@@ -1,0 +1,19 @@
+switch to our mobile site -> http://m.facebook.com/
+Facebook logo -> /
+Forgot your password? -> http://www.facebook.com/recover.php
+Sign Up -> /r.php?locale=en_US&loxv=v1_WITH_RULE
+English (US) -> /ajax/intl/language_dialog.php?uri=http%3A%2F%2Fwww.facebook.com%2Fcommunitystandards%2F
+Mobile -> http://www.facebook.com/mobile/?ref=pf
+Find Friends -> http://www.facebook.com/find-friends?ref=pf
+Badges -> http://www.facebook.com/badges/?ref=pf
+People -> http://www.facebook.com/directory/people/
+Pages -> http://www.facebook.com/directory/pages/
+About -> http://www.facebook.com/facebook
+Create an Ad -> http://www.facebook.com/campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+Create a Page -> http://www.facebook.com/pages/create.php?ref_type=sitefooter
+Developers -> http://developers.facebook.com/?ref=pf
+Careers -> http://www.facebook.com/careers/?ref=pf
+Privacy -> http://www.facebook.com/privacy/explanation
+Cookies -> http://www.facebook.com/help/cookies
+Terms -> http://www.facebook.com/policies/?ref=pf
+Help -> http://www.facebook.com/help/?ref=pf

@@ -1,0 +1,49 @@
+Sections of this page -> #
+Accessibility Help -> #
+Forgot account? -> https://www.facebook.com/recover/initiate/?ars=facebook_login
+Sign up for Facebook -> /r.php?next=https%3A%2F%2Fwww.facebook.com%2Fcommunitystandards%2F&locale=en_US&display=page
+Español -> https://es-la.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fcommunitystandards%2F
+Français (France) -> https://fr-fr.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fcommunitystandards%2F
+中文(简体) -> https://zh-cn.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fcommunitystandards%2F
+العربية -> https://ar-ar.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fcommunitystandards%2F
+Português (Brasil) -> https://pt-br.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fcommunitystandards%2F
+한국어 -> https://ko-kr.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fcommunitystandards%2F
+Italiano -> https://it-it.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fcommunitystandards%2F
+Deutsch -> https://de-de.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fcommunitystandards%2F
+हिन्दी -> https://hi-in.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fcommunitystandards%2F
+日本語 -> https://ja-jp.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fcommunitystandards%2F
+ -> #
+Sign Up -> /r.php
+Log In -> /login/
+Messenger -> https://messenger.com/
+Facebook Lite -> /lite/
+Watch -> https://www.facebook.com/watch/
+People -> /directory/people/
+Pages -> /directory/pages/
+Page Categories -> /pages/category/
+Places -> /places/
+Games -> /games/
+Locations -> /directory/places/
+Marketplace -> /marketplace/
+Facebook Pay -> https://pay.facebook.com/
+Groups -> /directory/groups/
+Jobs -> /jobs/
+Oculus -> https://www.oculus.com/
+Portal -> https://portal.facebook.com/
+Instagram -> https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F&h=AT1REcOXwWmiK20WQ86LdZ-Df9qfS09v9UJK2Sg7uYDKwT2NXK6jL4xPb8hf6zlcOweD9gOjJ0jT-FiacoSQRXBK_1xyFVlSB9Ju4KiAd1pUepl2XXhu0YVdqYkl3_WcFYVuUjIqznwzNQ
+Local -> /local/lists/245019872666104/
+Fundraisers -> /fundraisers/
+Services -> /biz/directory/
+Voting Information Center -> /votinginformationcenter/?entry_point=c2l0ZQ%3D%3D
+About -> /facebook
+Create Ad -> /ad_campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+Create Page -> /pages/create/?ref_type=site_footer
+Developers -> https://developers.facebook.com/?ref=pf
+Careers -> /careers/?ref=pf
+Privacy -> /privacy/explanation
+Cookies -> /policies/cookies/
+Ad Choices -> https://www.facebook.com/help/568137493302217
+Terms -> /policies?ref=pf
+Help -> /help/?ref=pf
+Settings -> /settings
+Activity Log -> /allactivity?privacy_source=activity_log_top_menu

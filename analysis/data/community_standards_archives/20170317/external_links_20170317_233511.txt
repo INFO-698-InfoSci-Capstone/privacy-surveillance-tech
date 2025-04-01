@@ -1,0 +1,41 @@
+ -> /communitystandards/?fb_home
+Gemeinschaftsstandards -> /communitystandards/
+Brief von unserem Team lesen -> /communitystandards/?letter
+ZurÃ¼ck nach oben -> #cs-header
+ZurÃ¼ck nach oben -> #cs-header
+ZurÃ¼ck nach oben -> #cs-header
+ZurÃ¼ck nach oben -> #cs-header
+melde uns das bitte -> https://www.facebook.com/help/www/181495968648557
+Mehr dazu -> https://www.facebook.com/help/212722115425932
+Funktionen -> https://www.facebook.com/help/www/128548343894719
+Missbrauch melden -> /help/181495968648557?ref=community_standards
+Dir angezeigte Inhalte kontrollieren -> /help/212722115425932?ref=community_standards
+Kommunikations-Tools -> /help/128548343894719?ref=community_standards
+ -> #
+Registrieren -> /r.php
+Anmelden -> /login/
+Messenger -> https://de-de.messenger.com/
+Facebook Lite -> /lite/
+Handy -> /mobile/?ref=pf
+Freunde finden -> /find-friends?ref=pf
+Nutzer -> /directory/people/
+Seiten -> /directory/pages/
+Orte -> /places/
+Spiele -> /games/
+Standorte -> /directory/places/
+Stars -> /directory/celebrities/
+Gruppen -> /directory/groups/
+Moments -> https://l.facebook.com/l.php?u=http%3A%2F%2Fmomentsapp.com%2F&h=ATOAPH33Ddwc89jKc_u4cPUfSgkgGcbReUXQAoHB4RByXGcb_Eqjay_jkn7kc45LEKjyn9h7umfeZ_Z4xrP8Sb1GzRq0jRF-zkktO-1jSG0PYObaS7GZVc4jqzA&s=1
+Instagram -> https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2F&h=ATNqULwn3tobNuquYSWXsvc0ceDKJtpVmGVFJo1IS67Iyp9HmWiIhi2u09jc5TMyGcq0slRAZwng8en3VepRsO7pKocv1i6wSE6dP3GnYCg2hedQnKpWeq8Yy9A&s=1
+Ãber uns -> /facebook
+Werbeanzeige erstellen -> /campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+Seite erstellen -> /pages/create/?ref_type=sitefooter
+Entwickler -> https://developers.facebook.com/?ref=pf
+Karriere -> /careers/?ref=pf
+Datenschutz -> /privacy/explanation
+Cookies -> /policies/cookies/
+Datenschutzinfo -> https://www.facebook.com/help/568137493302217
+Impressum/Nutzungsbedingungen -> /legal/terms?ref=pf
+Hilfe -> /help/?ref=pf
+Einstellungen -> /settings
+AktivitÃ¤tenprotokoll -> /allactivity?privacy_source=activity_log_top_menu

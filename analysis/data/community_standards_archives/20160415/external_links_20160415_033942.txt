@@ -1,0 +1,40 @@
+ -> /communitystandards/?fb_home
+Ú©ÙÛÙÙÙ¹Û Ú©Û ÙØ¹ÛØ§Ø± -> /communitystandards/
+ÛÙØ§Ø±Û Ù¹ÛÙ Ú©Ø§ Ø®Ø· Ù¾ÚÚ¾ÛÚº -> /communitystandards/?letter
+ÙØ§Ù¾Ø³ Ø³Ø¨ Ø³Û Ø§ÙÙ¾Ø± -> #cs-header
+ÙØ§Ù¾Ø³ Ø³Ø¨ Ø³Û Ø§ÙÙ¾Ø± -> #cs-header
+ÙØ§Ù¾Ø³ Ø³Ø¨ Ø³Û Ø§ÙÙ¾Ø± -> #cs-header
+ÙØ§Ù¾Ø³ Ø³Ø¨ Ø³Û Ø§ÙÙ¾Ø± -> #cs-header
+Ø¨Ø¯ Ø³ÙÙÚ©Û Ú©Û Ø±Ù¾ÙØ±Ù¹ Ú©Ø±ÙØ§ -> /help/181495968648557?ref=community_standards
+Ø§ÙÙ¾ Ú©Ù Ú©ÛØ§ Ø¯Ú©Ú¾Ø§Ø¦Û Ø¯Û Ø§Ø³Û Ú©ÙÙ¹Ø±ÙÙ Ú©Ø±ÙØ§ -> /help/212722115425932?ref=community_standards
+ÙÙØ§ØµÙØ§ØªÛ Ù¹ÙÙØ² -> /help/128548343894719?ref=community_standards
+ÛÙØ§Ø±Û Ù¾Ø§Ø³ Ø§Ø³ Ú©Û Ø´Ú©Ø§ÛØª Ø¯Ø±Ø¬ Ú©Ø§Ø¦ÛÚº -> https://www.facebook.com/help/www/181495968648557
+ÙØ²ÛØ¯ Ø¬Ø§ÙÛÚº -> https://www.facebook.com/help/212722115425932
+Ù¹ÙÙØ² -> https://www.facebook.com/help/www/128548343894719
+... -> #
+Ø´ÙÙÙÛØª Ø§Ø®ØªÛØ§Ø± Ú©Ø±ÛÚº -> /r.php
+Ø¯Ø§Ø®Ù ÛÙÚº -> /login/
+ÙÛØ³ÙØ¬Ø± -> https://ur-pk.messenger.com/
+Facebook Lite -> /lite/
+ÙÙØ¨Ø§Ø¦Ù -> /mobile/?ref=pf
+Ø¯ÙØ³Øª ØªÙØ§Ø´ Ú©Ø±ÛÚº -> /find-friends?ref=pf
+ÙØ´Ø§ÙØ§Øª -> /badges/?ref=pf
+ÙÙÚ¯ -> /directory/people/
+ØµÙØ­Ø§Øª -> /directory/pages/
+ÙÙØ§ÙØ§Øª -> /places/
+Ú©Ú¾ÛÙ -> /games/
+ÙØ­ÙØ§Øª ÙÙÙØ¹ -> /directory/places/
+ÙØ´ÛÙØ± Ø´Ø®ØµÛØ§Øª -> /directory/celebrities/
+Ú¯Ø±ÙÙ¾Ø³ -> /directory/groups/
+ÛÙØ§Ø±Û ÙØªØ¹ÙÙ -> /facebook
+Ø§Ø´ØªÛØ§Ø± Ø¨ÙØ§Ø¦ÛÚº -> /campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+ØµÙØ­Û Ø¨ÙØ§Ø¦ÛÚº -> /pages/create/?ref_type=sitefooter
+ØªØ®ÙÛÙ Ú©Ø§Ø± -> https://developers.facebook.com/?ref=pf
+Ø±ÙØ²Ú¯Ø§Ø± -> /careers/?ref=pf
+Ø±Ø§Ø² Ø¯Ø§Ø±Û -> /privacy/explanation
+Ú©Ù Ú©ÛØ² -> /help/cookies/?ref=sitefooter
+Ø§ÙØ´ØªÛØ§Ø± Ú©Û Ø§ÙØªØ®Ø§Ø¨Ø§Øª -> https://www.facebook.com/help/568137493302217
+ÙÙØ§Ø¹Ø¯ Ù Ø¶ÙØ§Ø¨Ø· -> /policies/?ref=pf
+ÙØ¯Ø¯ -> /help/?ref=pf
+ØªØ±ØªÛØ¨Ø§Øª -> /settings
+Ø³Ø±Ú¯Ø±ÙÛÙÚº Ú©Û ÙÛØ±Ø³Øª -> /allactivity?privacy_source=activity_log_top_menu

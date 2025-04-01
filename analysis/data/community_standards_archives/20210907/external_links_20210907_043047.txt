@@ -1,0 +1,17 @@
+ -> /communitystandards/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjMwOTg5MDQ4LCJjYWxsc2l0ZV9pZCI6MzQ5NzUyNzQyNzYwNjEwfQ%3D%3D
+ -> /communitystandards/?video
+kehittäneet yhteisönormit -> https://lm.facebook.com/l.php?u=https%3A%2F%2Fnewsroom.fb.com%2Fnews%2F2019%2F04%2Finsidefeed-community-standards-development-process%2F&h=AT0o5VVZ0QqZi6CYvwR730jQ3xexzwr7y3cOjz7N24t4zUhigOragt5JHT4O_rZm10FIna8OnhJYC9tSCRvPtisPrUVCFgmj2qdtPGBo-3lC6t56CqxLs820JZWlID2LmDkR1TBY2pBSk8oXKyCQ
+luoda paikka ilmaisulle ja antaa ihmisille ääni -> https://lm.facebook.com/l.php?u=https%3A%2F%2Fnewsroom.fb.com%2Fnews%2F2018%2F08%2Fhard-questions-free-expression%2F&h=AT261wB8HJ_8Xm0wP7NTtPgLYGm_FtdNCflMASw0lVZdFZWCFA_gZAZxZWTYvBHQajmq5NXcrFRYNPyZukm2rBhrSCxPkDsVO30NfcVRTmt66Q6hcfjkX7ayHuNgeEA35TwB8_d75-HMCppD0nw6
+yhtiön ihmisoikeuskäytännössä -> https://lm.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fwp-content%2Fuploads%2F2021%2F03%2FFacebooks-Corporate-Human-Rights-Policy.pdf&h=AT2sQt6h91zJ0GRRZaBtQ9YvL1YChg9K67_Tatm8dG_7P0RQ10vuAK86wS7QL9JKcLSvbjoeYSNPqEEb7Pqr-l5OBD9EfbkCXjvlWzP2YWsWZ2uYj3XBPEiIe49iLnT6xr5nrLPu7ULpMsPXt6zc
+täytäntöönpano edellyttää lisätietojen ja -kontekstin toimittamista. -> https://lm.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fnews%2F2020%2F11%2Fcommunity-standards-enforcement-report-nov-2020%2F&h=AT3WNTkTQDnegXEdBXEyKmJSPuo2RmvUumCafWcbjCm-tC0E3fCuAe6sx4W2GhCeaX5G-uaCvCV8EB9EdgGkDpFjnhZRps8Da7D1gSFf49nnkMNfxUedGgRR7LMdfQRM1AWa6cqPzBnO6uzdltFV
+estää -> https://www.facebook.com/help/168009843260943?ref=ccs
+piilottaa -> https://www.facebook.com/help/268028706671439?ref=ccs
+lopettaa seuraamisen -> https://www.facebook.com/help/276458109035418?ref=ccs
+I.Väkivalta ja rikollinen toiminta -> /communitystandards/violence_criminal_behavior/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjMwOTg5MDQ4LCJjYWxsc2l0ZV9pZCI6Mzg3OTcxMjgyMzgwNTA4fQ%3D%3D
+II.Turvallisuus -> /communitystandards/safety/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjMwOTg5MDQ4LCJjYWxsc2l0ZV9pZCI6Mzg3OTcxMjgyMzgwNTA4fQ%3D%3D
+III.Kyseenalainen sisältö -> /communitystandards/objectionable_content/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjMwOTg5MDQ4LCJjYWxsc2l0ZV9pZCI6Mzg3OTcxMjgyMzgwNTA4fQ%3D%3D
+IV.Rehellisyys ja aitous -> /communitystandards/integrity_authenticity/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjMwOTg5MDQ4LCJjYWxsc2l0ZV9pZCI6Mzg3OTcxMjgyMzgwNTA4fQ%3D%3D
+V.Immateriaaliomaisuuden kunnioittaminen -> /communitystandards/respecting_intellectual_property/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjMwOTg5MDQ4LCJjYWxsc2l0ZV9pZCI6Mzg3OTcxMjgyMzgwNTA4fQ%3D%3D
+VI.Sisältöön liittyvät kysymykset ja päätökset -> /communitystandards/content_related_requests/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjMwOTg5MDQ4LCJjYWxsc2l0ZV9pZCI6Mzg3OTcxMjgyMzgwNTA4fQ%3D%3D
+Lisätietoja -> /communitystandards/additional_information/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjMwOTg5MDQ4LCJjYWxsc2l0ZV9pZCI6Mzg3OTcxMjgyMzgwNTA4fQ%3D%3D
+Ilmianna väärinkäyttö -> /help/1380418588640631?ref=community_standards

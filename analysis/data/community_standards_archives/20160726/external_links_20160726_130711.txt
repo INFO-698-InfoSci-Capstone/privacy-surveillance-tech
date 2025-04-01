@@ -1,0 +1,40 @@
+ -> /communitystandards/?fb_home
+Topluluk StandartlarÄ± -> /communitystandards/
+Ekibimizin mektubunu oku -> /communitystandards/?letter
+BaÅa dÃ¶n -> #cs-header
+BaÅa dÃ¶n -> #cs-header
+BaÅa dÃ¶n -> #cs-header
+BaÅa dÃ¶n -> #cs-header
+KÃ¶tÃ¼ye KullanÄ±m Åikayeti -> /help/181495968648557?ref=community_standards
+Neler GÃ¶receÄinizi YÃ¶netme -> /help/212722115425932?ref=community_standards
+Ä°letiÅim AraÃ§larÄ± -> /help/128548343894719?ref=community_standards
+lÃ¼tfen bize Åikayet edin -> https://www.facebook.com/help/www/181495968648557
+Daha fazla bilgi alÄ±n -> https://www.facebook.com/help/212722115425932
+araÃ§lar -> https://www.facebook.com/help/www/128548343894719
+â¦ -> #
+Kaydol -> /r.php
+GiriÅ Yap -> /login/
+Messenger -> https://tr-tr.messenger.com/
+Facebook Lite -> /lite/
+Mobil -> /mobile/?ref=pf
+ArkadaÅlarÄ±nÄ± Bul -> /find-friends?ref=pf
+Kartlar -> /badges/?ref=pf
+KiÅiler -> /directory/people/
+Sayfalar -> /directory/pages/
+Yerler -> /places/
+Oyunlar -> /games/
+Konumlar -> /directory/places/
+ÃnlÃ¼ler -> /directory/celebrities/
+Gruplar -> /directory/groups/
+HakkÄ±mÄ±zda -> /facebook
+Reklam OluÅtur -> /campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+Sayfa OluÅtur -> /pages/create/?ref_type=sitefooter
+GeliÅtiriciler -> https://developers.facebook.com/?ref=pf
+Kariyer OlanaklarÄ± -> /careers/?ref=pf
+Gizlilik -> /privacy/explanation
+Ãerezler -> /help/cookies/?ref=sitefooter
+Ad Choices -> https://www.facebook.com/help/568137493302217
+KoÅullar -> /policies/?ref=pf
+YardÄ±m -> /help/?ref=pf
+Ayarlar -> /settings
+Hareketler DÃ¶kÃ¼mÃ¼ -> /allactivity?privacy_source=activity_log_top_menu

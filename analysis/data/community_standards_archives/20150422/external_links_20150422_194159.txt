@@ -1,0 +1,34 @@
+ -> /communitystandards/?fb_home
+Standards de la communautÃ© -> /communitystandards/
+Lire une lettre de notre Ã©quipe -> /communitystandards/?letter
+Retour en haut de la page -> #cs-header
+Retour en haut de la page -> #cs-header
+Retour en haut de la page -> #cs-header
+Retour en haut de la page -> #cs-header
+Signaler un abus -> /help/181495968648557?ref=community_standards
+ContrÃ´ler ce que vous voyez -> /help/212722115425932?ref=community_standards
+Outils de communication -> /help/128548343894719?ref=community_standards
+nâhÃ©sitez pas Ã  nous le signaler -> https://www.facebook.com/help/www/181495968648557
+En savoir plus -> https://www.facebook.com/help/212722115425932
+outils -> https://www.facebook.com/help/www/128548343894719
+Inscription -> /r.php
+Connexion -> /login/
+Messenger -> https://messenger.com/
+Mobile -> /mobile/?ref=pf
+Retrouver des amis -> /find-friends?ref=pf
+Badges -> /badges/?ref=pf
+Personnes -> /directory/people/
+Pages -> /directory/pages/
+Lieux -> /places/
+Jeux -> /games/
+Emplacements -> /directory/places/
+Ã propos -> /facebook
+CrÃ©er une publicitÃ© -> /campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+CrÃ©er une Page -> /pages/create/?ref_type=sitefooter
+DÃ©veloppeurs -> https://developers.facebook.com/?ref=pf
+Emplois -> /careers/?ref=pf
+ConfidentialitÃ© -> /privacy/explanation
+Cookies -> /help/cookies/?ref=sitefooter
+Conditions dâutilisation -> /policies/?ref=pf
+Aide -> /help/?ref=pf
+FranÃ§ais (France) -> #

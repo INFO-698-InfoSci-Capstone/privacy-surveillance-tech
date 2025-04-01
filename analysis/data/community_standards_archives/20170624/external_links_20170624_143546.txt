@@ -1,0 +1,44 @@
+ -> /communitystandards/?fb_home
+Normas comunitarias -> /communitystandards/
+ -> /communitystandards/video/
+Leer carta de nuestro equipo -> /communitystandards/?letter
+Volver arriba -> #cs-header
+Volver arriba -> #cs-header
+Volver arriba -> #cs-header
+Volver arriba -> #cs-header
+repórtalo -> https://www.facebook.com/help/www/181495968648557
+Más información -> https://www.facebook.com/help/212722115425932
+herramientas -> https://www.facebook.com/help/www/128548343894719
+Reportar abuso -> /help/181495968648557?ref=community_standards
+Controlar lo que ves -> /help/212722115425932?ref=community_standards
+Herramientas de comunicación -> /help/128548343894719?ref=community_standards
+ -> #
+Registrarte -> /r.php
+Iniciar sesión -> /login/
+Celular -> /mobile/?ref=pf
+Buscar amigos -> /find-friends?ref=pf
+Páginas -> /directory/pages/
+Ayuda -> /help/?ref=pf
+Messenger -> https://es-la.messenger.com/
+Facebook Lite -> /lite/
+Personas -> /directory/people/
+Lugares -> /places/
+Juegos -> /games/
+Ubicaciones -> /directory/places/
+Famosos -> /directory/celebrities/
+Mercado -> /marketplace/?ref=fb_home
+Grupos -> /directory/groups/
+Recetas -> /recipes/
+Moments -> http://l.facebook.com/l.php?u=http%3A%2F%2Fmomentsapp.com%2F&h=ATPjl62gJ3r8NfeMY-a4QxEy_gJ-s2R7rodVf16rVhs8w4v0-bI9b-KylGysqsgdnWyIGfwmD5d4O4rZJM6xffHXf7QospQuPz9L_u4wZGQhYlSDxtFtymFt_Tn0&s=1
+Instagram -> https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2F&h=ATPxgFSZ23BOUH5e31y_HQ0Y1pitnzKd2spmq_L8qSHJnHUNHMR-izomSk66ByVacgP_eTPz1gOFiSnYcfovM8swORcmmVpxCMKz6F8qgaY8wKYdD3LJ6aSw7r1d&s=1
+Información -> /facebook
+Crear anuncio -> /campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+Crear página -> /pages/create/?ref_type=sitefooter
+Desarrolladores -> https://developers.facebook.com/?ref=pf
+Empleo -> /careers/?ref=pf
+Privacidad -> /privacy/explanation
+Cookies -> /policies/cookies/
+Opciones de anuncios -> https://www.facebook.com/help/568137493302217
+Condiciones -> /policies?ref=pf
+Configuración -> /settings
+Registro de actividad -> /allactivity?privacy_source=activity_log_top_menu

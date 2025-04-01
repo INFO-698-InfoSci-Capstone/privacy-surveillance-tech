@@ -1,0 +1,39 @@
+Facebook -> https://www.facebook.com/?ref=logo
+0 Requests -> #
+0 Messages -> #
+Send a New Message -> /ajax/messaging/composer.php
+Inbox -> #
+Other -> #
+Show Older -> #
+See All -> https://www.facebook.com/messages/
+4 Notifications -> #
+Settings -> /settings?tab=notifications&section=on_facebook
+Show Older -> #
+See All -> https://www.facebook.com/notifications
+Home -> https://www.facebook.com/?ref=tn_tnmn
+Find Friends -> https://www.facebook.com/?sk=ff
+Rich -> https://www.facebook.com/rich.ackerman.376
+Privacy Shortcuts -> #
+Search -> #
+ -> #
+ -> #
+See More Settings -> https://www.facebook.com/settings/?tab=privacy&privacy_source=privacy_lite
+Visit Help Center -> https://www.facebook.com/help/?ref=privacy_lite
+Account Settings -> https://www.facebook.com/editaccount.php?ref=mb&drop
+0Broward College Central Campus Library -> #
+0University/College Library at Broward College -> #
+Create an Ad -> /campaign/landing.php?placement=tad&campaign_id=264263327005748&extra_1=auto&extra_2=AdvertisingMenu%3ACREATE_AN_AD
+Account Settings -> https://www.facebook.com/editaccount.php?ref=mb&drop
+Privacy Settings -> https://www.facebook.com/settings/?tab=privacy&ref=mb&privacy_source=settings_menu
+Help -> https://www.facebook.com/help/?ref=drop
+Report a Problem -> #
+About -> https://www.facebook.com/facebook
+Create Ad -> https://www.facebook.com/campaign/landing.php?placement=pf&campaign_id=466780656697650&extra_1=auto
+Create Page -> https://www.facebook.com/pages/create/?ref_type=sitefooter
+Developers -> https://developers.facebook.com/?ref=pf
+Careers -> https://www.facebook.com/careers/?ref=pf
+Privacy -> https://www.facebook.com/privacy/explanation
+Cookies -> https://www.facebook.com/help/cookies/?ref=sitefooter
+Terms -> https://www.facebook.com/policies/?ref=pf
+Help -> https://www.facebook.com/help/?ref=pf
+English (US) -> /ajax/intl/language_dialog.php?uri=https%3A%2F%2Fwww.facebook.com%2Fcommunitystandards

@@ -1,0 +1,43 @@
+ -> /communitystandards/?fb_home
+ì»¤ë®¤ëí° ê·ì  -> /communitystandards/
+Facebook í ë©ìì§ ë³´ê¸° -> /communitystandards/?letter
+ìë¡ ëìê°ê¸° -> #cs-header
+ìë¡ ëìê°ê¸° -> #cs-header
+ìë¡ ëìê°ê¸° -> #cs-header
+ìë¡ ëìê°ê¸° -> #cs-header
+ì ê³ í´ì£¼ì¸ì -> https://www.facebook.com/help/www/181495968648557
+ìì¸í ììë³´ì¸ì -> https://www.facebook.com/help/212722115425932
+ëêµ¬ -> https://www.facebook.com/help/www/128548343894719
+ìì© ì¬ë¡ ì ê³ -> /help/181495968648557?ref=community_standards
+ë´ì¤í¼ë ê´ë¦¬ -> /help/212722115425932?ref=community_standards
+ì»¤ë®¤ëì¼ì´ì ëêµ¬ -> /help/128548343894719?ref=community_standards
+ -> #
+ê°ìíê¸° -> /r.php
+ë¡ê·¸ì¸ -> /login/
+Messenger -> https://ko-kr.messenger.com/
+Facebook Lite -> /lite/
+ëª¨ë°ì¼ -> /mobile/?ref=pf
+ì¹êµ¬ ì°¾ê¸° -> /find-friends?ref=pf
+ì¬ë -> /directory/people/
+íì´ì§ -> /directory/pages/
+ì¥ì -> /places/
+ê²ì -> /games/
+ìì¹ -> /directory/places/
+ì ëªì¸ -> /directory/celebrities/
+ë§ì¼íë ì´ì¤ -> /marketplace/?ref=fb_home
+ê·¸ë£¹ -> /directory/groups/
+ë ìí¼ -> /recipes/
+Moments -> http://l.facebook.com/l.php?u=http%3A%2F%2Fmomentsapp.com%2F&h=ATPaMu7QW93kt6ZGB99GrxfVIjq4cbTPvOnF7GOhigPGQSRslOTM9J2mfYxGfseV19eAGhzgllHC8b8Vf5UNa2uUxp0aiQGZz4oepk2D8_ZmHr47obDJJpDH_fU&s=1
+Instagram -> https://l.facebook.com/l.php?u=https%3A%2F%2Finstagram.com%2F&h=ATPzV8MlB959iZpopWJCi3nOQkvyCu2txgQWNKDgunyleS7UUNY82FJIoISeyBCnG-yYZzfsTzfz2YRmR-LxCd8wYndEgoOK9omJRMtaucyr_ipIsqHzauLE0O0&s=1
+íì¬ìê° -> /facebook
+ê´ê³  ë§ë¤ê¸° -> /campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto
+íì´ì§ ë§ë¤ê¸° -> /pages/create/?ref_type=sitefooter
+ê°ë°ì -> https://developers.facebook.com/?ref=pf
+ì±ì© ì ë³´ -> /careers/?ref=pf
+ê°ì¸ì ë³´ì²ë¦¬ë°©ì¹¨ -> /privacy/explanation
+ì¿ í¤ -> /policies/cookies/
+ê´ê³  ì í -> https://www.facebook.com/help/568137493302217
+ì´ì© ì½ê´ -> /policies?ref=pf
+ê³ ê° ì¼í° -> /help/?ref=pf
+ì¤ì  -> /settings
+íë ë¡ê·¸ -> /allactivity?privacy_source=activity_log_top_menu
