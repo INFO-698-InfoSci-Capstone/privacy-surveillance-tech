@@ -24,3 +24,32 @@ Write anything that you think would be important for YOU later on.
 
 ---
 
+### Date: 
+3/28. 
+
+
+### Number of hours: 
+15 hours (over a two-week span): 
+- Explore Meta/facebook content moderation and community standards websites. 
+- Explore the Wayback Machine.
+- Develop Python script for scraping data from the Wayback Machine, run the code, fetch the data, and check it.
+- Met mentor 
+- Draft Python script to de-duplicate downloaded data
+
+### Rose:
+- Kept narrowing down project scope
+- Script for scraping data worked (almost) perfect
+
+### Bud: 
+- Looking forward to start the content analysis via NLP methods (topic modelling, similarity, etc.). 
+- Thining about what methods would be best fr this.
+
+### Thorn: 
+- Part of the scraping code did not work. I was not able to follow facebook's pages internal links recursively.
+- Wondering whether it is possible or if I would have to do it manually
+
+## Additional thought
+...
+
+---
+
