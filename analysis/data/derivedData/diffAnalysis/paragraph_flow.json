@@ -1,0 +1,112 @@
+[
+  {
+    "source": "capture_20110127_224041-p0",
+    "target": "capture_20120307_061623-p0",
+    "score": 0.865
+  },
+  {
+    "source": "capture_20110127_224041-p0",
+    "target": "capture_20120307_061623-(deleted)",
+    "score": 0.865
+  },
+  {
+    "source": "capture_20140805_123005-p0",
+    "target": "capture_20150409_195319-p0",
+    "score": 0.787
+  },
+  {
+    "source": "capture_20140805_123005-p0",
+    "target": "capture_20150409_195319-(deleted)",
+    "score": 0.787
+  },
+  {
+    "source": "capture_20161004_095041-p0",
+    "target": "capture_20161118_195212-p0",
+    "score": 0.854
+  },
+  {
+    "source": "capture_20161004_095041-p1",
+    "target": "capture_20161118_195212-p0",
+    "score": 0.479
+  },
+  {
+    "source": "capture_20161004_095041-p0",
+    "target": "capture_20161118_195212-(deleted)",
+    "score": 0.854
+  },
+  {
+    "source": "capture_20161004_095041-p1",
+    "target": "capture_20161118_195212-(deleted)",
+    "score": 0.479
+  },
+  {
+    "source": "capture_20161118_195212-p0",
+    "target": "capture_20161121_231709-p0",
+    "score": 0.823
+  },
+  {
+    "source": "capture_20161118_195212-p0",
+    "target": "capture_20161121_231709-(deleted)",
+    "score": 0.823
+  },
+  {
+    "source": "capture_20161121_231709-p1",
+    "target": "capture_20170118_070636-p0",
+    "score": 0.413
+  },
+  {
+    "source": "capture_20161121_231709-p1",
+    "target": "capture_20170118_070636-(deleted)",
+    "score": 0.413
+  },
+  {
+    "source": "capture_20170118_070636-p0",
+    "target": "capture_20170825_154149-p0",
+    "score": 0.887
+  },
+  {
+    "source": "capture_20170118_070636-p0",
+    "target": "capture_20170825_154149-(deleted)",
+    "score": 0.887
+  },
+  {
+    "source": "capture_20171130_164500-p0",
+    "target": "capture_20200530_194846-p0",
+    "score": 0.83
+  },
+  {
+    "source": "capture_20171130_164500-p1",
+    "target": "capture_20200530_194846-p0",
+    "score": 0.33
+  },
+  {
+    "source": "capture_20171130_164500-p0",
+    "target": "capture_20200530_194846-(deleted)",
+    "score": 0.83
+  },
+  {
+    "source": "capture_20171130_164500-p1",
+    "target": "capture_20200530_194846-(deleted)",
+    "score": 0.33
+  },
+  {
+    "source": "capture_20201127_095304-p0",
+    "target": "capture_20210908_123556-p0",
+    "score": 0.671
+  },
+  {
+    "source": "capture_20201127_095304-p0",
+    "target": "capture_20210908_123556-(deleted)",
+    "score": 0.671
+  },
+  {
+    "source": "capture_20220306_064344-p0",
+    "target": "capture_20231116_183638-p0",
+    "score": 0.856
+  },
+  {
+    "source": "capture_20220306_064344-p0",
+    "target": "capture_20231116_183638-(deleted)",
+    "score": 0.856
+  }
+]
