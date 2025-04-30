@@ -1,1 +1,6 @@
-
+change_type,para_prev_idx,para_curr_idx,text_prev,text_curr,semantic_sim,token_diff
+modified/added,16,15.0,VI.,V.,0.666,"- VI. ?  -
+ + V."
+modified/added,17,17.0,Content-Related Requests,VI. Content-Related Requests and Decisions,0.613,+ VI.   Content-Related   Requests + and + Decisions
+deleted,16,,VI.,,0.666,
+deleted,17,,Content-Related Requests,,0.613,

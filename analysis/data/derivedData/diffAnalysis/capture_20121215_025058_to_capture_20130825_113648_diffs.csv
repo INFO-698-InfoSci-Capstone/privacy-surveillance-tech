@@ -1,1 +1,32 @@
-
+change_type,para_prev_idx,para_curr_idx,text_prev,text_curr,semantic_sim,token_diff
+modified/added,7,14.0,Mobile ·,Terms,0.32,+ Terms - Mobile - ·
+modified/added,8,15.0,Find Friends ·,Help Facebook © 2013 · English (US),0.362,- Find - Friends + Help + Facebook + © + 2013   · + English + (US)
+modified/added,9,14.0,Badges ·,Terms,0.315,+ Terms - Badges - ·
+modified/added,10,7.0,People ·,About,0.306,+ About - People - ·
+modified/added,11,9.0,Pages ·,Create Page,0.377,"+ Create - Pages ?     -
+ + Page - ·"
+modified/added,12,7.0,Apps ·,About,0.408,+ About - Apps - ·
+modified/added,13,14.0,Games ·,Terms,0.402,+ Terms - Games - ·
+modified/added,14,7.0,Music ·,About,0.302,+ About - Music - ·
+modified/added,15,9.0,About · Create an Ad · Create a Page ·,Create Page,0.547,- About - ·   Create - an - Ad - · - Create - a   Page - ·
+modified/added,16,10.0,Developers ·,Developers,0.86,  Developers - ·
+modified/added,17,11.0,Careers ·,Careers,0.838,  Careers - ·
+modified/added,18,12.0,Privacy ·,Privacy,0.877,  Privacy - ·
+modified/added,19,13.0,Cookies ·,Cookies,0.874,  Cookies - ·
+modified/added,20,14.0,Terms ·,Terms,0.866,  Terms - ·
+modified/added,21,7.0,Help,About,0.44,- Help + About
+deleted,7,,Mobile ·,,0.32,
+deleted,8,,Find Friends ·,,0.362,
+deleted,9,,Badges ·,,0.315,
+deleted,10,,People ·,,0.306,
+deleted,11,,Pages ·,,0.377,
+deleted,12,,Apps ·,,0.408,
+deleted,13,,Games ·,,0.402,
+deleted,14,,Music ·,,0.302,
+deleted,15,,About · Create an Ad · Create a Page ·,,0.547,
+deleted,16,,Developers ·,,0.86,
+deleted,17,,Careers ·,,0.838,
+deleted,18,,Privacy ·,,0.877,
+deleted,19,,Cookies ·,,0.874,
+deleted,20,,Terms ·,,0.866,
+deleted,21,,Help,,0.44,

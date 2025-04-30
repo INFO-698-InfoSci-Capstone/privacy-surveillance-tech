@@ -1,1 +1,8 @@
-
+change_type,para_prev_idx,para_curr_idx,text_prev,text_curr,semantic_sim,token_diff
+modified/added,15,19.0,Create Advert,Create Ad,0.843,  Create - Advert + Ad
+modified/added,21,25.0,AdChoices,Ad Choices,0.449,"+ Ad - AdChoices ? --
+ + Choices"
+modified/added,23,8.0,Help Facebook Â© 2015 English (UK),Facebook Lite,0.623,- Help   Facebook + Lite - Â© - 2015 - English - (UK)
+deleted,15,,Create Advert,,0.843,
+deleted,21,,AdChoices,,0.449,
+deleted,23,,Help Facebook Â© 2015 English (UK),,0.623,

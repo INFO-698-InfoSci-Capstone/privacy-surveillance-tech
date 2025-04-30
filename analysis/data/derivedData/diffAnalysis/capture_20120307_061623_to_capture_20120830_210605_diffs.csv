@@ -1,1 +1,5 @@
-
+change_type,para_prev_idx,para_curr_idx,text_prev,text_curr,semantic_sim,token_diff
+modified/added,11,16.0,About ·,Terms ·,0.532,- About + Terms   ·
+modified/added,12,11.0,Advertising · Create a Page ·,About · Create an Ad · Create a Page ·,0.822,- Advertising + About + · + Create + an + Ad   ·   Create   a   Page   ·
+deleted,11,,About ·,,0.532,
+deleted,12,,Advertising · Create a Page ·,,0.822,
