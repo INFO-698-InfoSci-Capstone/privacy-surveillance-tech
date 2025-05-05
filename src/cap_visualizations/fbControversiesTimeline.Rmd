@@ -30,6 +30,7 @@ controversies <- read_csv(
 plot_df <- controversies %>%
   mutate(label_y = row_number())   # 1, 2, 3… give every event its own row
 
+timeline_plot <-
   ggplot(plot_df, aes(x = Date)) +
     geom_hline(yintercept = 0, colour = "grey35") +
     geom_segment(aes(xend = Date, y = 0, yend = label_y),
@@ -75,7 +76,7 @@ plot_df <- controversies %>%
 
 # ---------- save to file ----------
 ggsave("facebook_meta_timeline.png",  
-       plot   = plot_df,               
+       plot   = timeline_plot,               
        width  = 11,                    # inches
        height = 6,                     # inches
        dpi    = 300,                   # print‑quality
