@@ -5,3 +5,4 @@
 src/*.o
 src/*.so
 src/*.dll
+analysis/data/derivedData/Facebook_moderation_privacy_controversies.xlsx
