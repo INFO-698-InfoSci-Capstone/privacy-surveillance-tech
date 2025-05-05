@@ -1,0 +1,87 @@
+---
+title: "Facebook Scandals"
+author: "JC De Orellana Sanchez"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+
+# Load packages
+library(tidyverse)
+library(lubridate)
+library(ggrepel)
+```
+
+
+```{r fbScandalsDF}
+
+# Import data frame and parse the dates and sort
+controversies <- read_csv(
+  "Facebook_moderation_privacy_controversies.csv") %>%
+  mutate(
+    Date = mdy(Date)    # parse month/day/year
+  ) %>%
+  arrange(Date)
+```
+
+``` {r plot}
+
+plot_df <- controversies %>%
+  mutate(label_y = row_number()) %>%   # 1, 2, 3… give every event its own row
+
+  ggplot(aes(x = Date)) +
+    geom_hline(yintercept = 0, colour = "grey35") +
+    geom_segment(aes(xend = Date, y = 0, yend = label_y),
+                 colour = "grey60") +
+    geom_point(aes(y = 0), size = 3, colour = "darkorange") +
+    geom_text(
+      aes(y = label_y, label = Event),
+      vjust  = -0.2,           # small gap above the stem
+      family = "serif",
+      size   = 3,
+      face   = "bold"
+    ) +
+    # add padding left & right so Event labels are not mutilated
+    scale_x_date(
+      breaks      = plot_df$Date,
+      date_labels = "%m/%y",
+      expand      = expansion(mult = c(.07, .07))  # 7% padding on both ends
+    ) +
+    scale_y_continuous(NULL, breaks = NULL,
+                       expand = expansion(mult = c(.02, .05))) +
+    labs(
+      title = "Timeline of Facebook/Meta Controversies",
+      x     = NULL
+    ) +
+    theme_minimal(base_family = "serif") +
+    theme(
+      plot.title  = element_text(face = "bold", size = 16),
+      axis.text.x = element_text(angle = 45, hjust = 1, size = 8),
+      panel.grid.major.y = element_blank(),
+      panel.grid.minor.y = element_blank(),
+      panel.grid.major.x  = element_blank(),   # turn off vertical grid lines
+      panel.grid.minor.x  = element_blank(),   # turn off minor grid lines
+      # widen left & right margins
+      plot.margin = margin(5.5, 40, 5.5, 40),  # top, right, bottom, left
+      plot.background  = element_rect(colour = "black", fill = NA, linewidth = .6)
+    ) +
+    # allow drawing in the margin to ensure event text is not mutilated
+    coord_cartesian(clip = "off")
+
+print(plot_df)
+```
+
+```{r}
+
+# ---------- save to file ----------
+ggsave("facebook_meta_timeline.png",  
+       plot   = plot_df,               
+       width  = 11,                    # inches
+       height = 6,                     # inches
+       dpi    = 300,                   # print‑quality
+       bg     = "white")               # keeps background white in PNG
+
+# (Optional) Display as a nice table in RMarkdown or Shiny:
+# knitr::kable(timeline_ordered, caption = "Timeline of Facebook/Meta Controversies")
+```
