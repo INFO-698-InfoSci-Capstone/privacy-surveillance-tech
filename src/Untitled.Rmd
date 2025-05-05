@@ -1,0 +1,55 @@
+---
+title: "Facebook Scandals"
+author: "JC De Orellana Sanchez"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+
+library(tidyverse)
+library(lubridate)
+```
+
+
+```{r fbScandalsDF}
+# 1. Load tidyverse (includes tibble, dplyr, etc.) and lubridate
+library(tidyverse)
+library(lubridate)
+
+# 2. Create the timeline as a tibble
+timeline <- tribble(
+  ~event,                         ~date,         ~description,                                  ~source,
+  "Launch of Beacon",             "2007-11-06",  "Beacon advertising program launch",           "https://en.wikipedia.org/wiki/Facebook_Beacon",
+  "F8 Privacy Changes",           "2010-04-21",  "Default privacy defaults announced at F8",     "https://money.cnn.com/2010/04/21/technology/facebook_conference_f8/",
+  "Emotional Contagion Study",    "2014-06-17",  "PNAS paper on News Feed emotion manipulation", "https://en.wikipedia.org/wiki/Criticism_of_Facebook#User_influence_experiments",
+  "Cambridge Analytica Scandal",  "2018-03-17",  "Data misuse by Cambridge Analytica exposed",   "https://en.wikipedia.org/wiki/Facebook–Cambridge_Analytica_data_scandal",
+  "FTC $5B Fine",                 "2019-07-24",  "Record $5B FTC fine for privacy violations",  "https://en.wikipedia.org/wiki/Facebook–Cambridge_Analytica_data_scandal",
+  "First Facebook Files",         "2021-09-13",  "WSJ publishes initial Facebook Files leaks",  "https://en.wikipedia.org/wiki/Facebook_Files",
+  "Haugen Whistleblower Reveal",  "2021-10-03",  "Haugen testifies publicly on 60 Minutes",     "https://en.wikipedia.org/wiki/Facebook_Files",
+  "Facebook Papers Series",       "2021-10-22",  "Major outlets publish Facebook Papers",        "https://en.wikipedia.org/wiki/Facebook_Files",
+  "Rebrand to Meta",              "2021-10-28",  "Facebook, Inc. renamed Meta Platforms",        "https://about.fb.com/news/2021/10/facebook-company-is-now-meta/"
+)
+
+# 3. Parse dates and arrange chronologically
+timeline_ordered <- timeline %>%
+  mutate(date = ymd(date)) %>%
+  arrange(date)
+
+# 4. View or print the result
+print(timeline_ordered)
+
+# (Optional) Display as a nice table in RMarkdown or Shiny:
+# knitr::kable(timeline_ordered, caption = "Timeline of Facebook/Meta Controversies")
+
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
