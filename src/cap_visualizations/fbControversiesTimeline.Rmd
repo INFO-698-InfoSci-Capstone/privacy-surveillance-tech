@@ -28,9 +28,9 @@ controversies <- read_csv(
 ``` {r plot}
 
 plot_df <- controversies %>%
-  mutate(label_y = row_number()) %>%   # 1, 2, 3… give every event its own row
+  mutate(label_y = row_number())   # 1, 2, 3… give every event its own row
 
-  ggplot(aes(x = Date)) +
+  ggplot(plot_df, aes(x = Date)) +
     geom_hline(yintercept = 0, colour = "grey35") +
     geom_segment(aes(xend = Date, y = 0, yend = label_y),
                  colour = "grey60") +
@@ -51,7 +51,7 @@ plot_df <- controversies %>%
     scale_y_continuous(NULL, breaks = NULL,
                        expand = expansion(mult = c(.02, .05))) +
     labs(
-      title = "Timeline of Facebook/Meta Controversies",
+      title = "Timeline of Facebook/Meta Controversies 2007-2025",
       x     = NULL
     ) +
     theme_minimal(base_family = "serif") +
@@ -69,7 +69,6 @@ plot_df <- controversies %>%
     # allow drawing in the margin to ensure event text is not mutilated
     coord_cartesian(clip = "off")
 
-print(plot_df)
 ```
 
 ```{r}
