@@ -69,7 +69,7 @@ timeline_plot <-
     ) +
     # allow drawing in the margin to ensure event text is not mutilated
     coord_cartesian(clip = "off")
-
+timeline_plot
 ```
 
 ```{r}
